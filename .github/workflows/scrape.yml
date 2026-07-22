@@ -4,12 +4,7 @@ on:
   schedule:
     # Alle 3 Stunden (UTC!)
     - cron: "0 */3 * * *"
-  workflow_dispatch:
-    inputs:
-      debug:
-        description: "Debug-Modus (rohes HTML als Artifact speichern)"
-        type: boolean
-        default: false
+  workflow_dispatch: {}   # manuelles Auslösen über den "Run workflow"-Button
 
 permissions:
   contents: write   # nötig, damit der Workflow ins Repo pushen darf
@@ -35,16 +30,17 @@ jobs:
 
       - name: Scraper ausführen
         env:
-          SCRAPER_DEBUG: ${{ github.event.inputs.debug == 'true' && '1' || '0' }}
+          SCRAPER_DEBUG: "1"
         run: python scraper.py
 
       - name: Debug-HTML als Artifact hochladen
-        if: ${{ github.event.inputs.debug == 'true' }}
+        if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: debug-html
+          name: debug-html-${{ github.run_id }}
           path: debug/
           retention-days: 3
+          if-no-files-found: warn
 
       - name: data.json committen und pushen
         run: |
