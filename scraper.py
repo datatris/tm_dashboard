@@ -10,6 +10,7 @@ Html.Table(...)-Abfrage in Power Query, damit die Spaltenlogik identisch bleibt.
 """
 
 import json
+import os
 import time
 from datetime import datetime, timezone
 
@@ -19,14 +20,36 @@ from bs4 import BeautifulSoup
 BASE_URL = "https://www.transfermarkt.de"
 WETTBEWERBE = ["L1", "L2", "L3"]
 MAX_SEITEN = 20
-OUTPUT_FILE = "transfers.json"
+OUTPUT_FILE = "data.json"
+DEBUG_DIR = "debug"
+DEBUG = os.environ.get("SCRAPER_DEBUG", "0") == "1"
 
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
         "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-    )
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "de-DE,de;q=0.9,en;q=0.8",
+    "Referer": "https://www.transfermarkt.de/",
 }
+
+# Eine Session statt einzelner requests.get()-Aufrufe: übernimmt Cookies
+# zwischen den Requests, was manche einfachen Bot-Schutzmechanismen umgeht.
+SESSION = requests.Session()
+SESSION.headers.update(HEADERS)
+
+# Textbausteine, die typischerweise auf einer Bot-Schutz-/Captcha-Seite
+# stehen. Wenn wir sowas sehen, ist NICHT die CSS-Selektorlogik das Problem,
+# sondern die Anfrage wurde geblockt.
+BLOCK_MARKER = [
+    "captcha",
+    "access denied",
+    "zugriff verweigert",
+    "just a moment",
+    "cloudflare",
+    "attention required",
+]
 
 
 def get_attr(el, attr):
@@ -111,8 +134,30 @@ def fetch_page(wettbewerb, seite):
         "plus": 1,
         "page": seite,
     }
-    resp = requests.get(url, headers=HEADERS, params=params, timeout=30)
+    resp = SESSION.get(url, params=params, timeout=30)
+
+    html_lower = resp.text.lower()
+    geblockt = any(marker in html_lower for marker in BLOCK_MARKER)
+
+    print(
+        f"[INFO] {wettbewerb} Seite {seite}: HTTP {resp.status_code}, "
+        f"{len(resp.text)} Zeichen, verdacht_auf_blockade={geblockt}"
+    )
+
+    if DEBUG:
+        os.makedirs(DEBUG_DIR, exist_ok=True)
+        pfad = os.path.join(DEBUG_DIR, f"{wettbewerb}_seite{seite}.html")
+        with open(pfad, "w", encoding="utf-8") as f:
+            f.write(resp.text)
+
     resp.raise_for_status()
+
+    if geblockt:
+        print(
+            f"[WARN] {wettbewerb} Seite {seite}: Antwort sieht nach "
+            "Bot-Schutz/Captcha aus, nicht nach der echten Transferliste."
+        )
+
     return resp.text
 
 
@@ -126,6 +171,15 @@ def parse_transfers(html):
     for row in rows:
         if row.select_one("td:nth-child(1) .hauptlink"):
             treffer.append(parse_row(row))
+
+    if DEBUG and not treffer:
+        anzahl_tabellen = len(soup.select("table"))
+        anzahl_hauptlink = len(soup.select(".hauptlink"))
+        print(
+            f"[DEBUG] 0 Treffer. Gefunden: {len(rows)} <tr>, "
+            f"{anzahl_tabellen} <table>, {anzahl_hauptlink} .hauptlink-Elemente."
+        )
+
     return treffer
 
 
