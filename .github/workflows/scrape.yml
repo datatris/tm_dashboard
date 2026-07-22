@@ -1,0 +1,45 @@
+name: Transfermarkt Scraper
+
+on:
+  schedule:
+    # Alle 3 Stunden (UTC!)
+    - cron: "0 */3 * * *"
+  workflow_dispatch: {}   # manuelles Auslösen über den "Run workflow"-Button
+
+permissions:
+  contents: write   # nötig, damit der Workflow ins Repo pushen darf
+
+concurrency:
+  group: scrape
+  cancel-in-progress: true
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Abhängigkeiten installieren
+        run: pip install -r requirements.txt
+
+      - name: Scraper ausführen
+        run: python scraper.py
+
+      - name: data.json committen und pushen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          # Nur committen, wenn sich wirklich etwas geändert hat
+          if git diff --staged --quiet; then
+            echo "Keine Änderungen an data.json"
+          else
+            git commit -m "Automatisches Update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
