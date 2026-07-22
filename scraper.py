@@ -19,7 +19,7 @@ from bs4 import BeautifulSoup
 BASE_URL = "https://www.transfermarkt.de"
 WETTBEWERBE = ["L1", "L2", "L3"]
 MAX_SEITEN = 20
-OUTPUT_FILE = "data.json"
+OUTPUT_FILE = "transfers.json"
 
 HEADERS = {
     "User-Agent": (
