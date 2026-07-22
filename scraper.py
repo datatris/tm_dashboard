@@ -22,7 +22,7 @@ WETTBEWERBE = ["L1", "L2", "L3"]
 MAX_SEITEN = 20
 OUTPUT_FILE = "data.json"
 DEBUG_DIR = "debug"
-DEBUG = os.environ.get("SCRAPER_DEBUG", "0") == "1"
+DEBUG = os.environ.get("SCRAPER_DEBUG", "1") != "0"  # standardmäßig an
 
 HEADERS = {
     "User-Agent": (
@@ -136,6 +136,9 @@ def fetch_page(wettbewerb, seite):
     }
     resp = SESSION.get(url, params=params, timeout=30)
 
+    # resp.url ist die tatsächlich abgerufene, vollständig zusammengesetzte URL
+    print(f"[URL] {resp.url}")
+
     html_lower = resp.text.lower()
     geblockt = any(marker in html_lower for marker in BLOCK_MARKER)
 
@@ -192,8 +195,8 @@ def scrape():
             try:
                 html = fetch_page(wettbewerb, seite)
                 daten = parse_transfers(html)
-            except requests.RequestException as exc:
-                print(f"[WARN] {wettbewerb} Seite {seite}: {exc}")
+            except Exception as exc:
+                print(f"[WARN] {wettbewerb} Seite {seite}: {type(exc).__name__}: {exc}")
                 daten = []
 
             if not daten:
