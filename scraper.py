@@ -188,9 +188,16 @@ def parse_transfers(html):
     soup = BeautifulSoup(html, "html.parser")
     rows = soup.select("tr")
 
+    # Transfermarkt rendert pro Transfer zwei <tr>: eine Hauptzeile mit allen
+    # Daten und eine zusätzliche Layout-Zeile, die nur den Spielernamen erneut
+    # enthält (alle anderen Felder wären dort None). Damit diese Zusatzzeile
+    # nicht als eigener (fast leerer) Eintrag durchrutscht, verlangen wir,
+    # dass sowohl der alte als auch der neue Verein vorhanden sind.
     treffer = []
     for row in rows:
-        if row.select_one("td:nth-child(1) .hauptlink"):
+        hat_spieler = row.select_one("td:nth-child(1) .hauptlink")
+        hat_neuer_verein = row.select_one("td:nth-child(5) .hauptlink")
+        if hat_spieler and hat_neuer_verein:
             treffer.append(parse_row(row))
 
     if DEBUG and not treffer:
@@ -224,10 +231,7 @@ def scrape(context):
                 continue
 
             leere_seiten_in_folge = 0
-            for eintrag in daten:
-                eintrag["Column1"] = wettbewerb
-                eintrag["Seite"] = seite
-                alle_transfers.append(eintrag)
+            alle_transfers.extend(daten)
 
             time.sleep(1.5)  # kurze Pause, um transfermarkt.de nicht zu überlasten
 
