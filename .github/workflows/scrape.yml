@@ -16,7 +16,7 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 60
     steps:
       - name: Repository auschecken
         uses: actions/checkout@v4
@@ -32,10 +32,15 @@ jobs:
       - name: Playwright-Browser (Chromium) installieren
         run: playwright install --with-deps chromium
 
-      - name: Scraper ausführen
+      - name: Transfers scrapen (data.json)
         env:
           SCRAPER_DEBUG: "1"
         run: python scraper.py
+
+      - name: Gerüchteküche scrapen (datageruechte.json)
+        env:
+          SCRAPER_DEBUG: "1"
+        run: python scraper_geruechte.py
 
       - name: Debug-HTML als Artifact hochladen
         if: always()
@@ -46,14 +51,14 @@ jobs:
           retention-days: 3
           if-no-files-found: warn
 
-      - name: data.json committen und pushen
+      - name: JSON-Dateien committen und pushen
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data.json
+          git add data.json datageruechte.json
           # Nur committen, wenn sich wirklich etwas geändert hat
           if git diff --staged --quiet; then
-            echo "Keine Änderungen an data.json"
+            echo "Keine Änderungen an data.json / datageruechte.json"
           else
             git commit -m "Automatisches Update: $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
