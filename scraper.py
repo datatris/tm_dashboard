@@ -5,6 +5,11 @@ Holt für die Wettbewerbe L1 (Bundesliga), L2 (2. Bundesliga) und L3 (3. Liga)
 jeweils bis zu 20 Seiten der "neueste Transfers"-Statistik und speichert das
 Ergebnis als data.json.
 
+Transfermarkt schützt die Seite mit einer AWS-WAF-JavaScript-Challenge.
+Ein einfacher HTTP-Request (requests/urllib) bekommt deshalb nur eine leere
+Zwischenseite zurück. Deshalb wird hier ein echter (headless) Browser über
+Playwright genutzt, der die Challenge wie ein normaler Browser ausführt.
+
 Die CSS-Selektoren entsprechen 1:1 denen aus der ursprünglichen
 Html.Table(...)-Abfrage in Power Query, damit die Spaltenlogik identisch bleibt.
 """
@@ -14,8 +19,8 @@ import os
 import time
 from datetime import datetime, timezone
 
-import requests
 from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
 
 BASE_URL = "https://www.transfermarkt.de"
 WETTBEWERBE = ["L1", "L2", "L3"]
@@ -24,31 +29,24 @@ OUTPUT_FILE = "data.json"
 DEBUG_DIR = "debug"
 DEBUG = os.environ.get("SCRAPER_DEBUG", "1") != "0"  # standardmäßig an
 
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-        "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-    ),
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "de-DE,de;q=0.9,en;q=0.8",
-    "Referer": "https://www.transfermarkt.de/",
-}
+USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+)
 
-# Eine Session statt einzelner requests.get()-Aufrufe: übernimmt Cookies
-# zwischen den Requests, was manche einfachen Bot-Schutzmechanismen umgeht.
-SESSION = requests.Session()
-SESSION.headers.update(HEADERS)
+# Wie lange (Sekunden) wir maximal auf die Auflösung der AWS-WAF-Challenge warten
+CHALLENGE_TIMEOUT = 30
 
-# Textbausteine, die typischerweise auf einer Bot-Schutz-/Captcha-Seite
-# stehen. Wenn wir sowas sehen, ist NICHT die CSS-Selektorlogik das Problem,
-# sondern die Anfrage wurde geblockt.
+# Textbausteine, die auf eine (noch) nicht aufgelöste Bot-Schutz-Seite hindeuten
 BLOCK_MARKER = [
+    "awswaf",
+    "challenge-container",
     "captcha",
     "access denied",
     "zugriff verweigert",
     "just a moment",
-    "cloudflare",
     "attention required",
+    "verify that you're not a robot",
 ]
 
 
@@ -84,7 +82,6 @@ def parse_row(row):
     )
 
     alter = get_text(row.select_one("tbody .zentriert:nth-child(2)"))
-    # Fallback: manche Layouts haben "Alter" direkt als zentrierte Zelle in der Zeile
     if alter is None:
         alter = get_text(row.select_one(".zentriert:nth-child(2)"))
 
@@ -126,50 +123,71 @@ def parse_row(row):
     }
 
 
-def fetch_page(wettbewerb, seite):
-    url = f"{BASE_URL}/transfers/neuestetransfers/statistik"
-    params = {
-        "wettbewerb_id": wettbewerb,
-        "minMarktwert": 0,
-        "plus": 1,
-        "page": seite,
-    }
-    resp = SESSION.get(url, params=params, timeout=30)
+def ist_blockiert(html):
+    lower = html.lower()
+    return any(marker in lower for marker in BLOCK_MARKER)
 
-    # resp.url ist die tatsächlich abgerufene, vollständig zusammengesetzte URL
-    print(f"[URL] {resp.url}")
 
-    html_lower = resp.text.lower()
-    geblockt = any(marker in html_lower for marker in BLOCK_MARKER)
+def warte_auf_echten_inhalt(page, timeout_seconds=CHALLENGE_TIMEOUT):
+    """
+    Wartet, bis die AWS-WAF-Challenge aufgelöst ist (die Seite lädt sich nach
+    erfolgreicher Challenge selbst per JS neu) oder das Timeout erreicht ist.
+    """
+    start = time.time()
+    content = ""
+    while time.time() - start < timeout_seconds:
+        try:
+            content = page.content()
+        except Exception:
+            content = ""
 
+        if content and not ist_blockiert(content) and len(content) > 2000:
+            return content
+
+        page.wait_for_timeout(1500)
+
+    return content
+
+
+def fetch_page(context, wettbewerb, seite):
+    url = (
+        f"{BASE_URL}/transfers/neuestetransfers/statistik"
+        f"?wettbewerb_id={wettbewerb}&minMarktwert=0&plus=1&page={seite}"
+    )
+    print(f"[URL] {url}")
+
+    page = context.new_page()
+    try:
+        page.goto(url, wait_until="domcontentloaded", timeout=60000)
+        html = warte_auf_echten_inhalt(page)
+    finally:
+        page.close()
+
+    geblockt = ist_blockiert(html)
     print(
-        f"[INFO] {wettbewerb} Seite {seite}: HTTP {resp.status_code}, "
-        f"{len(resp.text)} Zeichen, verdacht_auf_blockade={geblockt}"
+        f"[INFO] {wettbewerb} Seite {seite}: {len(html)} Zeichen, "
+        f"verdacht_auf_blockade={geblockt}"
     )
 
     if DEBUG:
         os.makedirs(DEBUG_DIR, exist_ok=True)
         pfad = os.path.join(DEBUG_DIR, f"{wettbewerb}_seite{seite}.html")
         with open(pfad, "w", encoding="utf-8") as f:
-            f.write(resp.text)
-
-    resp.raise_for_status()
+            f.write(html)
 
     if geblockt:
         print(
-            f"[WARN] {wettbewerb} Seite {seite}: Antwort sieht nach "
-            "Bot-Schutz/Captcha aus, nicht nach der echten Transferliste."
+            f"[WARN] {wettbewerb} Seite {seite}: Auch nach {CHALLENGE_TIMEOUT}s "
+            "noch Bot-Schutz-Seite, keine echte Transferliste erhalten."
         )
 
-    return resp.text
+    return html
 
 
 def parse_transfers(html):
     soup = BeautifulSoup(html, "html.parser")
     rows = soup.select("tr")
 
-    # RowSelector-Äquivalent: nur Zeilen behalten, die tatsächlich einen
-    # Spielernamen im ersten TD enthalten (Header-/Trennzeilen fallen raus).
     treffer = []
     for row in rows:
         if row.select_one("td:nth-child(1) .hauptlink"):
@@ -186,14 +204,14 @@ def parse_transfers(html):
     return treffer
 
 
-def scrape():
+def scrape(context):
     alle_transfers = []
 
     for wettbewerb in WETTBEWERBE:
         leere_seiten_in_folge = 0
         for seite in range(1, MAX_SEITEN + 1):
             try:
-                html = fetch_page(wettbewerb, seite)
+                html = fetch_page(context, wettbewerb, seite)
                 daten = parse_transfers(html)
             except Exception as exc:
                 print(f"[WARN] {wettbewerb} Seite {seite}: {type(exc).__name__}: {exc}")
@@ -201,9 +219,6 @@ def scrape():
 
             if not daten:
                 leere_seiten_in_folge += 1
-                # Wie im Original werden Fehler-/leere Seiten übersprungen
-                # (entspricht Table.RemoveRowsWithErrors). Nach 2 leeren
-                # Seiten in Folge brechen wir früh ab, um Requests zu sparen.
                 if leere_seiten_in_folge >= 2:
                     break
                 continue
@@ -214,13 +229,38 @@ def scrape():
                 eintrag["Seite"] = seite
                 alle_transfers.append(eintrag)
 
-            time.sleep(1)  # kurze Pause, um transfermarkt.de nicht zu überlasten
+            time.sleep(1.5)  # kurze Pause, um transfermarkt.de nicht zu überlasten
 
     return alle_transfers
 
 
 def main():
-    transfers = scrape()
+    with sync_playwright() as p:
+        browser = p.chromium.launch(
+            headless=True,
+            args=[
+                "--disable-blink-features=AutomationControlled",
+                "--no-sandbox",
+            ],
+        )
+        context = browser.new_context(
+            user_agent=USER_AGENT,
+            locale="de-DE",
+            viewport={"width": 1280, "height": 900},
+            extra_http_headers={
+                "Accept-Language": "de-DE,de;q=0.9,en;q=0.8",
+            },
+        )
+        # navigator.webdriver ist eines der einfachsten Signale, an denen
+        # Bot-Schutz Automatisierung erkennt - hier wird es verschleiert.
+        context.add_init_script(
+            "Object.defineProperty(navigator, 'webdriver', {get: () => undefined});"
+        )
+
+        transfers = scrape(context)
+
+        browser.close()
+
     ausgabe = {
         "letzte_aktualisierung": datetime.now(timezone.utc).isoformat(),
         "anzahl": len(transfers),
