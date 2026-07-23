@@ -1,9 +1,9 @@
 name: Transfermarkt Scraper
-#
-#on:
-#  schedule:
-#    # Alle 3 Stunden (UTC!)
-#    - cron: "0 */3 * * *"
+
+on:
+  schedule:
+    # Alle 3 Stunden (UTC!)
+    - cron: "0 */3 * * *"
   workflow_dispatch: {}   # manuelles Auslösen über den "Run workflow"-Button
 
 permissions:
@@ -16,6 +16,7 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     steps:
       - name: Repository auschecken
         uses: actions/checkout@v4
@@ -27,6 +28,9 @@ jobs:
 
       - name: Abhängigkeiten installieren
         run: pip install -r requirements.txt
+
+      - name: Playwright-Browser (Chromium) installieren
+        run: playwright install --with-deps chromium
 
       - name: Scraper ausführen
         env:
