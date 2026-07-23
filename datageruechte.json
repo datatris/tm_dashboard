@@ -1,7 +1,21 @@
 {
-  "letzte_aktualisierung": "2026-07-23T19:19:38.734031+00:00",
+  "letzte_aktualisierung": "2026-07-23T19:29:52.851201+00:00",
   "anzahl": 237,
   "geruechte": [
+    {
+      "Spieler": "Dzenan Pejcinovic",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/819636-1689865855.jpg?lm=1",
+      "Link Spieler": "/dzenan-pejcinovic/profil/spieler/819636",
+      "Marktwert": "15,00 Mio.",
+      "Aktueller Verein": "VfL Wolfsburg",
+      "Link aktueller Verein": "/vfl-wolfsburg/startseite/verein/82",
+      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/82.png?lm=1778348110",
+      "Potenzieller Verein": "VfB Stuttgart",
+      "Link potenzieller Verein": "/vfb-stuttgart/startseite/verein/79",
+      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/79.png?lm=1680587427",
+      "Wahrscheinlichkeit": "51",
+      "Letzter Stand": "23.07.2026 21:26"
+    },
     {
       "Spieler": "Konstantinos Karetsas",
       "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/990148-1742566542.jpg?lm=1",
@@ -31,20 +45,6 @@
       "Letzter Stand": "23.07.2026 21:16"
     },
     {
-      "Spieler": "Dzenan Pejcinovic",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/819636-1689865855.jpg?lm=1",
-      "Link Spieler": "/dzenan-pejcinovic/profil/spieler/819636",
-      "Marktwert": "15,00 Mio.",
-      "Aktueller Verein": "VfL Wolfsburg",
-      "Link aktueller Verein": "/vfl-wolfsburg/startseite/verein/82",
-      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/82.png?lm=1778348110",
-      "Potenzieller Verein": "VfB Stuttgart",
-      "Link potenzieller Verein": "/vfb-stuttgart/startseite/verein/79",
-      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/79.png?lm=1680587427",
-      "Wahrscheinlichkeit": "51",
-      "Letzter Stand": "23.07.2026 21:08"
-    },
-    {
       "Spieler": "Maximilian Hennig",
       "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/897409-1692946745.jpg?lm=1",
       "Link Spieler": "/maximilian-hennig/profil/spieler/897409",
@@ -69,7 +69,7 @@
       "Potenzieller Verein": "FC Paris Saint-Germain",
       "Link potenzieller Verein": "/fc-paris-saint-germain/startseite/verein/583",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/583.png?lm=1728026461",
-      "Wahrscheinlichkeit": "46",
+      "Wahrscheinlichkeit": "44",
       "Letzter Stand": "23.07.2026 20:55"
     },
     {
@@ -83,7 +83,7 @@
       "Potenzieller Verein": "Borussia Dortmund",
       "Link potenzieller Verein": "/borussia-dortmund/startseite/verein/16",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/16.png?lm=1396275280",
-      "Wahrscheinlichkeit": "30",
+      "Wahrscheinlichkeit": "31",
       "Letzter Stand": "23.07.2026 20:52"
     },
     {
@@ -321,7 +321,7 @@
       "Potenzieller Verein": "Hamburger SV",
       "Link potenzieller Verein": "/hamburger-sv/startseite/verein/41",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/41.png?lm=1597319274",
-      "Wahrscheinlichkeit": null,
+      "Wahrscheinlichkeit": "4",
       "Letzter Stand": "23.07.2026 20:06"
     },
     {
@@ -503,7 +503,7 @@
       "Potenzieller Verein": "1.FC Köln",
       "Link potenzieller Verein": "/1-fc-koln/startseite/verein/3",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/3.png?lm=1656580823",
-      "Wahrscheinlichkeit": "69",
+      "Wahrscheinlichkeit": "66",
       "Letzter Stand": "23.07.2026 18:36"
     },
     {
@@ -671,7 +671,7 @@
       "Potenzieller Verein": "1.FC Köln",
       "Link potenzieller Verein": "/1-fc-koln/startseite/verein/3",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/3.png?lm=1656580823",
-      "Wahrscheinlichkeit": "10",
+      "Wahrscheinlichkeit": "16",
       "Letzter Stand": "23.07.2026 15:30"
     },
     {
@@ -1637,7 +1637,7 @@
       "Potenzieller Verein": "Bayer 04 Leverkusen",
       "Link potenzieller Verein": "/bayer-04-leverkusen/startseite/verein/15",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/15.png?lm=1710156317",
-      "Wahrscheinlichkeit": "38",
+      "Wahrscheinlichkeit": "33",
       "Letzter Stand": "22.07.2026 08:59"
     },
     {
