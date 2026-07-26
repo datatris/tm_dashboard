@@ -1,5 +1,5 @@
 {
-  "letzte_aktualisierung": "2026-07-26T08:37:01.988940+00:00",
+  "letzte_aktualisierung": "2026-07-26T10:50:51.505559+00:00",
   "anzahl": 1434,
   "transfers": [
     {
@@ -320,7 +320,7 @@
     {
       "Spieler": "Johan Manzambi",
       "Spielerprofil": "/johan-manzambi/profil/spieler/927353",
-      "Position": "Zentrales Mittelfeld",
+      "Position": "Offensives Mittelfeld",
       "Alter": "20",
       "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/148.png?lm=1520611569",
       "Nation 2": null,
@@ -14088,21 +14088,6 @@
       "Ablöse": "ablösefrei"
     },
     {
-      "Spieler": "Milad Nejad",
-      "Spielerprofil": "/milad-nejad/profil/spieler/729177",
-      "Position": "Zentrales Mittelfeld",
-      "Alter": "22",
-      "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
-      "Nation 2": "https://tmssl.akamaized.net//images/flagge/verysmall/71.png?lm=1520611569",
-      "Alter Verein": "Wehen Wiesbaden",
-      "Link alter Verein": "/sv-wehen-wiesbaden/startseite/verein/108/saison_id/2026",
-      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/108.png?lm=1465643808",
-      "Neuer Verein": "E. Norderstedt",
-      "Transferdatum": "24.07.2026",
-      "Marktwert": "150 Tsd. €",
-      "Ablöse": "ablösefrei"
-    },
-    {
       "Spieler": "Jonathan Kafu",
       "Spielerprofil": "/jonathan-kafu/profil/spieler/951742",
       "Position": "Defensives Mittelfeld",
@@ -14220,6 +14205,21 @@
       "Neuer Verein": "W. Mannheim",
       "Transferdatum": "22.07.2026",
       "Marktwert": "600 Tsd. €",
+      "Ablöse": "ablösefrei"
+    },
+    {
+      "Spieler": "Milad Nejad",
+      "Spielerprofil": "/milad-nejad/profil/spieler/729177",
+      "Position": "Zentrales Mittelfeld",
+      "Alter": "22",
+      "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
+      "Nation 2": "https://tmssl.akamaized.net//images/flagge/verysmall/71.png?lm=1520611569",
+      "Alter Verein": "Wehen Wiesbaden",
+      "Link alter Verein": "/sv-wehen-wiesbaden/startseite/verein/108/saison_id/2026",
+      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/108.png?lm=1465643808",
+      "Neuer Verein": "E. Norderstedt",
+      "Transferdatum": "22.07.2026",
+      "Marktwert": "150 Tsd. €",
       "Ablöse": "ablösefrei"
     },
     {
