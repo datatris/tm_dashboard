@@ -1,5 +1,5 @@
 {
-  "letzte_aktualisierung": "2026-07-27T14:50:42.080943+00:00",
+  "letzte_aktualisierung": "2026-07-27T17:06:14.005584+00:00",
   "anzahl": 1456,
   "transfers": [
     {
@@ -16,6 +16,21 @@
       "Transferdatum": "27.07.2026",
       "Marktwert": "2,00 Mio. €",
       "Ablöse": "Leihe"
+    },
+    {
+      "Spieler": "David Kinsombi",
+      "Spielerprofil": "/david-kinsombi/profil/spieler/196834",
+      "Position": "Defensives Mittelfeld",
+      "Alter": "30",
+      "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
+      "Nation 2": "https://tmssl.akamaized.net//images/flagge/verysmall/193.png?lm=1520611569",
+      "Alter Verein": "SC Paderborn",
+      "Link alter Verein": "/sc-paderborn-07/startseite/verein/127/saison_id/2026",
+      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/127.png?lm=1532010365",
+      "Neuer Verein": "Würzb. Kickers",
+      "Transferdatum": "27.07.2026",
+      "Marktwert": "400 Tsd. €",
+      "Ablöse": "ablösefrei"
     },
     {
       "Spieler": "Jusuf Gazibegovic",
@@ -2611,21 +2626,6 @@
       "Transferdatum": "01.07.2026",
       "Marktwert": "3,00 Mio. €",
       "Ablöse": "ablösefrei"
-    },
-    {
-      "Spieler": "David Kinsombi",
-      "Spielerprofil": "/david-kinsombi/profil/spieler/196834",
-      "Position": "Defensives Mittelfeld",
-      "Alter": "30",
-      "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
-      "Nation 2": "https://tmssl.akamaized.net//images/flagge/verysmall/193.png?lm=1520611569",
-      "Alter Verein": "SC Paderborn",
-      "Link alter Verein": "/sc-paderborn-07/startseite/verein/127/saison_id/2026",
-      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/127.png?lm=1532010365",
-      "Neuer Verein": "Vereinslos",
-      "Transferdatum": "01.07.2026",
-      "Marktwert": "400 Tsd. €",
-      "Ablöse": "-"
     },
     {
       "Spieler": "Yukhym Konoplya",
@@ -6843,6 +6843,21 @@
       "Ablöse": "4,00 Mio. €"
     },
     {
+      "Spieler": "Lukas Jonsson",
+      "Spielerprofil": "/lukas-jonsson/profil/spieler/136601",
+      "Position": "Torwart",
+      "Alter": "33",
+      "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/147.png?lm=1520611569",
+      "Nation 2": null,
+      "Alter Verein": "VfL Osnabrück",
+      "Link alter Verein": "/vfl-osnabruck/startseite/verein/81/saison_id/2026",
+      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/81.png?lm=1735908901",
+      "Neuer Verein": "Djurgården",
+      "Transferdatum": "27.07.2026",
+      "Marktwert": "200 Tsd. €",
+      "Ablöse": "?"
+    },
+    {
       "Spieler": "Luca Erlein",
       "Spielerprofil": "/luca-erlein/profil/spieler/1009442",
       "Position": "Rechter Verteidiger",
@@ -10578,19 +10593,19 @@
       "Ablöse": "?"
     },
     {
-      "Spieler": "Julian Green",
-      "Spielerprofil": "/julian-green/profil/spieler/161204",
-      "Position": "Zentrales Mittelfeld",
-      "Alter": "31",
-      "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/184.png?lm=1520611569",
-      "Nation 2": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
-      "Alter Verein": "Greuther Fürth",
-      "Link alter Verein": "/spvgg-greuther-furth/startseite/verein/65/saison_id/2026",
-      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/65.png?lm=1503682935",
-      "Neuer Verein": "Vereinslos",
+      "Spieler": "Michal Karbownik",
+      "Spielerprofil": "/michal-karbownik/profil/spieler/401604",
+      "Position": "Linker Verteidiger",
+      "Alter": "25",
+      "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/135.png?lm=1520611569",
+      "Nation 2": null,
+      "Alter Verein": "Hertha BSC",
+      "Link alter Verein": "/hertha-bsc/startseite/verein/44/saison_id/2026",
+      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/44.png?lm=1656580875",
+      "Neuer Verein": "Basaksehir",
       "Transferdatum": "01.07.2026",
-      "Marktwert": "700 Tsd. €",
-      "Ablöse": "-"
+      "Marktwert": "1,80 Mio. €",
+      "Ablöse": "ablösefrei"
     },
     {
       "Spieler": "Aki Koch",
@@ -10953,19 +10968,19 @@
       "Ablöse": "?"
     },
     {
-      "Spieler": "Julian Green",
-      "Spielerprofil": "/julian-green/profil/spieler/161204",
-      "Position": "Zentrales Mittelfeld",
-      "Alter": "31",
-      "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/184.png?lm=1520611569",
-      "Nation 2": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
-      "Alter Verein": "Greuther Fürth",
-      "Link alter Verein": "/spvgg-greuther-furth/startseite/verein/65/saison_id/2026",
-      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/65.png?lm=1503682935",
-      "Neuer Verein": "Vereinslos",
+      "Spieler": "Michal Karbownik",
+      "Spielerprofil": "/michal-karbownik/profil/spieler/401604",
+      "Position": "Linker Verteidiger",
+      "Alter": "25",
+      "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/135.png?lm=1520611569",
+      "Nation 2": null,
+      "Alter Verein": "Hertha BSC",
+      "Link alter Verein": "/hertha-bsc/startseite/verein/44/saison_id/2026",
+      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/44.png?lm=1656580875",
+      "Neuer Verein": "Basaksehir",
       "Transferdatum": "01.07.2026",
-      "Marktwert": "700 Tsd. €",
-      "Ablöse": "-"
+      "Marktwert": "1,80 Mio. €",
+      "Ablöse": "ablösefrei"
     },
     {
       "Spieler": "Aki Koch",
@@ -11328,19 +11343,19 @@
       "Ablöse": "?"
     },
     {
-      "Spieler": "Julian Green",
-      "Spielerprofil": "/julian-green/profil/spieler/161204",
-      "Position": "Zentrales Mittelfeld",
-      "Alter": "31",
-      "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/184.png?lm=1520611569",
-      "Nation 2": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
-      "Alter Verein": "Greuther Fürth",
-      "Link alter Verein": "/spvgg-greuther-furth/startseite/verein/65/saison_id/2026",
-      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/65.png?lm=1503682935",
-      "Neuer Verein": "Vereinslos",
+      "Spieler": "Michal Karbownik",
+      "Spielerprofil": "/michal-karbownik/profil/spieler/401604",
+      "Position": "Linker Verteidiger",
+      "Alter": "25",
+      "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/135.png?lm=1520611569",
+      "Nation 2": null,
+      "Alter Verein": "Hertha BSC",
+      "Link alter Verein": "/hertha-bsc/startseite/verein/44/saison_id/2026",
+      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/44.png?lm=1656580875",
+      "Neuer Verein": "Basaksehir",
       "Transferdatum": "01.07.2026",
-      "Marktwert": "700 Tsd. €",
-      "Ablöse": "-"
+      "Marktwert": "1,80 Mio. €",
+      "Ablöse": "ablösefrei"
     },
     {
       "Spieler": "Aki Koch",
@@ -11703,19 +11718,19 @@
       "Ablöse": "?"
     },
     {
-      "Spieler": "Julian Green",
-      "Spielerprofil": "/julian-green/profil/spieler/161204",
-      "Position": "Zentrales Mittelfeld",
-      "Alter": "31",
-      "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/184.png?lm=1520611569",
-      "Nation 2": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
-      "Alter Verein": "Greuther Fürth",
-      "Link alter Verein": "/spvgg-greuther-furth/startseite/verein/65/saison_id/2026",
-      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/65.png?lm=1503682935",
-      "Neuer Verein": "Vereinslos",
+      "Spieler": "Michal Karbownik",
+      "Spielerprofil": "/michal-karbownik/profil/spieler/401604",
+      "Position": "Linker Verteidiger",
+      "Alter": "25",
+      "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/135.png?lm=1520611569",
+      "Nation 2": null,
+      "Alter Verein": "Hertha BSC",
+      "Link alter Verein": "/hertha-bsc/startseite/verein/44/saison_id/2026",
+      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/44.png?lm=1656580875",
+      "Neuer Verein": "Basaksehir",
       "Transferdatum": "01.07.2026",
-      "Marktwert": "700 Tsd. €",
-      "Ablöse": "-"
+      "Marktwert": "1,80 Mio. €",
+      "Ablöse": "ablösefrei"
     },
     {
       "Spieler": "Aki Koch",
@@ -12078,19 +12093,19 @@
       "Ablöse": "?"
     },
     {
-      "Spieler": "Julian Green",
-      "Spielerprofil": "/julian-green/profil/spieler/161204",
-      "Position": "Zentrales Mittelfeld",
-      "Alter": "31",
-      "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/184.png?lm=1520611569",
-      "Nation 2": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
-      "Alter Verein": "Greuther Fürth",
-      "Link alter Verein": "/spvgg-greuther-furth/startseite/verein/65/saison_id/2026",
-      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/65.png?lm=1503682935",
-      "Neuer Verein": "Vereinslos",
+      "Spieler": "Michal Karbownik",
+      "Spielerprofil": "/michal-karbownik/profil/spieler/401604",
+      "Position": "Linker Verteidiger",
+      "Alter": "25",
+      "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/135.png?lm=1520611569",
+      "Nation 2": null,
+      "Alter Verein": "Hertha BSC",
+      "Link alter Verein": "/hertha-bsc/startseite/verein/44/saison_id/2026",
+      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/44.png?lm=1656580875",
+      "Neuer Verein": "Basaksehir",
       "Transferdatum": "01.07.2026",
-      "Marktwert": "700 Tsd. €",
-      "Ablöse": "-"
+      "Marktwert": "1,80 Mio. €",
+      "Ablöse": "ablösefrei"
     },
     {
       "Spieler": "Aki Koch",
@@ -12453,19 +12468,19 @@
       "Ablöse": "?"
     },
     {
-      "Spieler": "Julian Green",
-      "Spielerprofil": "/julian-green/profil/spieler/161204",
-      "Position": "Zentrales Mittelfeld",
-      "Alter": "31",
-      "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/184.png?lm=1520611569",
-      "Nation 2": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
-      "Alter Verein": "Greuther Fürth",
-      "Link alter Verein": "/spvgg-greuther-furth/startseite/verein/65/saison_id/2026",
-      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/65.png?lm=1503682935",
-      "Neuer Verein": "Vereinslos",
+      "Spieler": "Michal Karbownik",
+      "Spielerprofil": "/michal-karbownik/profil/spieler/401604",
+      "Position": "Linker Verteidiger",
+      "Alter": "25",
+      "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/135.png?lm=1520611569",
+      "Nation 2": null,
+      "Alter Verein": "Hertha BSC",
+      "Link alter Verein": "/hertha-bsc/startseite/verein/44/saison_id/2026",
+      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/44.png?lm=1656580875",
+      "Neuer Verein": "Basaksehir",
       "Transferdatum": "01.07.2026",
-      "Marktwert": "700 Tsd. €",
-      "Ablöse": "-"
+      "Marktwert": "1,80 Mio. €",
+      "Ablöse": "ablösefrei"
     },
     {
       "Spieler": "Aki Koch",
@@ -12828,19 +12843,19 @@
       "Ablöse": "?"
     },
     {
-      "Spieler": "Julian Green",
-      "Spielerprofil": "/julian-green/profil/spieler/161204",
-      "Position": "Zentrales Mittelfeld",
-      "Alter": "31",
-      "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/184.png?lm=1520611569",
-      "Nation 2": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
-      "Alter Verein": "Greuther Fürth",
-      "Link alter Verein": "/spvgg-greuther-furth/startseite/verein/65/saison_id/2026",
-      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/65.png?lm=1503682935",
-      "Neuer Verein": "Vereinslos",
+      "Spieler": "Michal Karbownik",
+      "Spielerprofil": "/michal-karbownik/profil/spieler/401604",
+      "Position": "Linker Verteidiger",
+      "Alter": "25",
+      "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/135.png?lm=1520611569",
+      "Nation 2": null,
+      "Alter Verein": "Hertha BSC",
+      "Link alter Verein": "/hertha-bsc/startseite/verein/44/saison_id/2026",
+      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/44.png?lm=1656580875",
+      "Neuer Verein": "Basaksehir",
       "Transferdatum": "01.07.2026",
-      "Marktwert": "700 Tsd. €",
-      "Ablöse": "-"
+      "Marktwert": "1,80 Mio. €",
+      "Ablöse": "ablösefrei"
     },
     {
       "Spieler": "Aki Koch",
@@ -13203,19 +13218,19 @@
       "Ablöse": "?"
     },
     {
-      "Spieler": "Julian Green",
-      "Spielerprofil": "/julian-green/profil/spieler/161204",
-      "Position": "Zentrales Mittelfeld",
-      "Alter": "31",
-      "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/184.png?lm=1520611569",
-      "Nation 2": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
-      "Alter Verein": "Greuther Fürth",
-      "Link alter Verein": "/spvgg-greuther-furth/startseite/verein/65/saison_id/2026",
-      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/65.png?lm=1503682935",
-      "Neuer Verein": "Vereinslos",
+      "Spieler": "Michal Karbownik",
+      "Spielerprofil": "/michal-karbownik/profil/spieler/401604",
+      "Position": "Linker Verteidiger",
+      "Alter": "25",
+      "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/135.png?lm=1520611569",
+      "Nation 2": null,
+      "Alter Verein": "Hertha BSC",
+      "Link alter Verein": "/hertha-bsc/startseite/verein/44/saison_id/2026",
+      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/44.png?lm=1656580875",
+      "Neuer Verein": "Basaksehir",
       "Transferdatum": "01.07.2026",
-      "Marktwert": "700 Tsd. €",
-      "Ablöse": "-"
+      "Marktwert": "1,80 Mio. €",
+      "Ablöse": "ablösefrei"
     },
     {
       "Spieler": "Aki Koch",
@@ -13578,19 +13593,19 @@
       "Ablöse": "?"
     },
     {
-      "Spieler": "Julian Green",
-      "Spielerprofil": "/julian-green/profil/spieler/161204",
-      "Position": "Zentrales Mittelfeld",
-      "Alter": "31",
-      "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/184.png?lm=1520611569",
-      "Nation 2": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
-      "Alter Verein": "Greuther Fürth",
-      "Link alter Verein": "/spvgg-greuther-furth/startseite/verein/65/saison_id/2026",
-      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/65.png?lm=1503682935",
-      "Neuer Verein": "Vereinslos",
+      "Spieler": "Michal Karbownik",
+      "Spielerprofil": "/michal-karbownik/profil/spieler/401604",
+      "Position": "Linker Verteidiger",
+      "Alter": "25",
+      "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/135.png?lm=1520611569",
+      "Nation 2": null,
+      "Alter Verein": "Hertha BSC",
+      "Link alter Verein": "/hertha-bsc/startseite/verein/44/saison_id/2026",
+      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/44.png?lm=1656580875",
+      "Neuer Verein": "Basaksehir",
       "Transferdatum": "01.07.2026",
-      "Marktwert": "700 Tsd. €",
-      "Ablöse": "-"
+      "Marktwert": "1,80 Mio. €",
+      "Ablöse": "ablösefrei"
     },
     {
       "Spieler": "Aki Koch",
@@ -13953,19 +13968,19 @@
       "Ablöse": "?"
     },
     {
-      "Spieler": "Julian Green",
-      "Spielerprofil": "/julian-green/profil/spieler/161204",
-      "Position": "Zentrales Mittelfeld",
-      "Alter": "31",
-      "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/184.png?lm=1520611569",
-      "Nation 2": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
-      "Alter Verein": "Greuther Fürth",
-      "Link alter Verein": "/spvgg-greuther-furth/startseite/verein/65/saison_id/2026",
-      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/65.png?lm=1503682935",
-      "Neuer Verein": "Vereinslos",
+      "Spieler": "Michal Karbownik",
+      "Spielerprofil": "/michal-karbownik/profil/spieler/401604",
+      "Position": "Linker Verteidiger",
+      "Alter": "25",
+      "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/135.png?lm=1520611569",
+      "Nation 2": null,
+      "Alter Verein": "Hertha BSC",
+      "Link alter Verein": "/hertha-bsc/startseite/verein/44/saison_id/2026",
+      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/44.png?lm=1656580875",
+      "Neuer Verein": "Basaksehir",
       "Transferdatum": "01.07.2026",
-      "Marktwert": "700 Tsd. €",
-      "Ablöse": "-"
+      "Marktwert": "1,80 Mio. €",
+      "Ablöse": "ablösefrei"
     },
     {
       "Spieler": "Aki Koch",
@@ -14326,21 +14341,6 @@
       "Transferdatum": "01.07.2026",
       "Marktwert": "450 Tsd. €",
       "Ablöse": "?"
-    },
-    {
-      "Spieler": "Julian Green",
-      "Spielerprofil": "/julian-green/profil/spieler/161204",
-      "Position": "Zentrales Mittelfeld",
-      "Alter": "31",
-      "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/184.png?lm=1520611569",
-      "Nation 2": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
-      "Alter Verein": "Greuther Fürth",
-      "Link alter Verein": "/spvgg-greuther-furth/startseite/verein/65/saison_id/2026",
-      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/65.png?lm=1503682935",
-      "Neuer Verein": "Vereinslos",
-      "Transferdatum": "01.07.2026",
-      "Marktwert": "700 Tsd. €",
-      "Ablöse": "-"
     },
     {
       "Spieler": "Rafael Eßlinger",
@@ -14356,6 +14356,21 @@
       "Transferdatum": "27.07.2026",
       "Marktwert": "-",
       "Ablöse": "-"
+    },
+    {
+      "Spieler": "David Kinsombi",
+      "Spielerprofil": "/david-kinsombi/profil/spieler/196834",
+      "Position": "Defensives Mittelfeld",
+      "Alter": "30",
+      "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
+      "Nation 2": "https://tmssl.akamaized.net//images/flagge/verysmall/193.png?lm=1520611569",
+      "Alter Verein": "SC Paderborn",
+      "Link alter Verein": "/sc-paderborn-07/startseite/verein/127/saison_id/2026",
+      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/127.png?lm=1532010365",
+      "Neuer Verein": "Würzb. Kickers",
+      "Transferdatum": "27.07.2026",
+      "Marktwert": "400 Tsd. €",
+      "Ablöse": "ablösefrei"
     },
     {
       "Spieler": "Omer Hanin",
@@ -18078,19 +18093,19 @@
       "Ablöse": "Leihe"
     },
     {
-      "Spieler": "Hannes Hermann",
-      "Spielerprofil": "/hannes-hermann/profil/spieler/894692",
-      "Position": "Torwart",
+      "Spieler": "Luca Raimund",
+      "Spielerprofil": "/luca-raimund/profil/spieler/907489",
+      "Position": "Rechtsaußen",
       "Alter": "21",
       "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
       "Nation 2": null,
-      "Alter Verein": "Hamburger SV",
-      "Link alter Verein": "/hamburger-sv/startseite/verein/41/saison_id/2026",
-      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/41.png?lm=1597319274",
-      "Neuer Verein": "J. Regensburg",
+      "Alter Verein": "F. Düsseldorf",
+      "Link alter Verein": "/fortuna-dusseldorf/startseite/verein/38/saison_id/2026",
+      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/38.png?lm=1405514004",
+      "Neuer Verein": "VfL Osnabrück",
       "Transferdatum": "01.07.2026",
-      "Marktwert": "150 Tsd. €",
-      "Ablöse": "Leihe"
+      "Marktwert": "400 Tsd. €",
+      "Ablöse": "ablösefrei"
     },
     {
       "Spieler": "Jong-min Seo",
@@ -18453,19 +18468,19 @@
       "Ablöse": "Leihe"
     },
     {
-      "Spieler": "Hannes Hermann",
-      "Spielerprofil": "/hannes-hermann/profil/spieler/894692",
-      "Position": "Torwart",
+      "Spieler": "Luca Raimund",
+      "Spielerprofil": "/luca-raimund/profil/spieler/907489",
+      "Position": "Rechtsaußen",
       "Alter": "21",
       "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
       "Nation 2": null,
-      "Alter Verein": "Hamburger SV",
-      "Link alter Verein": "/hamburger-sv/startseite/verein/41/saison_id/2026",
-      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/41.png?lm=1597319274",
-      "Neuer Verein": "J. Regensburg",
+      "Alter Verein": "F. Düsseldorf",
+      "Link alter Verein": "/fortuna-dusseldorf/startseite/verein/38/saison_id/2026",
+      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/38.png?lm=1405514004",
+      "Neuer Verein": "VfL Osnabrück",
       "Transferdatum": "01.07.2026",
-      "Marktwert": "150 Tsd. €",
-      "Ablöse": "Leihe"
+      "Marktwert": "400 Tsd. €",
+      "Ablöse": "ablösefrei"
     },
     {
       "Spieler": "Jong-min Seo",
@@ -18828,19 +18843,19 @@
       "Ablöse": "Leihe"
     },
     {
-      "Spieler": "Hannes Hermann",
-      "Spielerprofil": "/hannes-hermann/profil/spieler/894692",
-      "Position": "Torwart",
+      "Spieler": "Luca Raimund",
+      "Spielerprofil": "/luca-raimund/profil/spieler/907489",
+      "Position": "Rechtsaußen",
       "Alter": "21",
       "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
       "Nation 2": null,
-      "Alter Verein": "Hamburger SV",
-      "Link alter Verein": "/hamburger-sv/startseite/verein/41/saison_id/2026",
-      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/41.png?lm=1597319274",
-      "Neuer Verein": "J. Regensburg",
+      "Alter Verein": "F. Düsseldorf",
+      "Link alter Verein": "/fortuna-dusseldorf/startseite/verein/38/saison_id/2026",
+      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/38.png?lm=1405514004",
+      "Neuer Verein": "VfL Osnabrück",
       "Transferdatum": "01.07.2026",
-      "Marktwert": "150 Tsd. €",
-      "Ablöse": "Leihe"
+      "Marktwert": "400 Tsd. €",
+      "Ablöse": "ablösefrei"
     },
     {
       "Spieler": "Jong-min Seo",
@@ -19203,19 +19218,19 @@
       "Ablöse": "Leihe"
     },
     {
-      "Spieler": "Hannes Hermann",
-      "Spielerprofil": "/hannes-hermann/profil/spieler/894692",
-      "Position": "Torwart",
+      "Spieler": "Luca Raimund",
+      "Spielerprofil": "/luca-raimund/profil/spieler/907489",
+      "Position": "Rechtsaußen",
       "Alter": "21",
       "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
       "Nation 2": null,
-      "Alter Verein": "Hamburger SV",
-      "Link alter Verein": "/hamburger-sv/startseite/verein/41/saison_id/2026",
-      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/41.png?lm=1597319274",
-      "Neuer Verein": "J. Regensburg",
+      "Alter Verein": "F. Düsseldorf",
+      "Link alter Verein": "/fortuna-dusseldorf/startseite/verein/38/saison_id/2026",
+      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/38.png?lm=1405514004",
+      "Neuer Verein": "VfL Osnabrück",
       "Transferdatum": "01.07.2026",
-      "Marktwert": "150 Tsd. €",
-      "Ablöse": "Leihe"
+      "Marktwert": "400 Tsd. €",
+      "Ablöse": "ablösefrei"
     },
     {
       "Spieler": "Jong-min Seo",
@@ -19578,19 +19593,19 @@
       "Ablöse": "Leihe"
     },
     {
-      "Spieler": "Hannes Hermann",
-      "Spielerprofil": "/hannes-hermann/profil/spieler/894692",
-      "Position": "Torwart",
+      "Spieler": "Luca Raimund",
+      "Spielerprofil": "/luca-raimund/profil/spieler/907489",
+      "Position": "Rechtsaußen",
       "Alter": "21",
       "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
       "Nation 2": null,
-      "Alter Verein": "Hamburger SV",
-      "Link alter Verein": "/hamburger-sv/startseite/verein/41/saison_id/2026",
-      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/41.png?lm=1597319274",
-      "Neuer Verein": "J. Regensburg",
+      "Alter Verein": "F. Düsseldorf",
+      "Link alter Verein": "/fortuna-dusseldorf/startseite/verein/38/saison_id/2026",
+      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/38.png?lm=1405514004",
+      "Neuer Verein": "VfL Osnabrück",
       "Transferdatum": "01.07.2026",
-      "Marktwert": "150 Tsd. €",
-      "Ablöse": "Leihe"
+      "Marktwert": "400 Tsd. €",
+      "Ablöse": "ablösefrei"
     },
     {
       "Spieler": "Jong-min Seo",
@@ -19953,19 +19968,19 @@
       "Ablöse": "Leihe"
     },
     {
-      "Spieler": "Hannes Hermann",
-      "Spielerprofil": "/hannes-hermann/profil/spieler/894692",
-      "Position": "Torwart",
+      "Spieler": "Luca Raimund",
+      "Spielerprofil": "/luca-raimund/profil/spieler/907489",
+      "Position": "Rechtsaußen",
       "Alter": "21",
       "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
       "Nation 2": null,
-      "Alter Verein": "Hamburger SV",
-      "Link alter Verein": "/hamburger-sv/startseite/verein/41/saison_id/2026",
-      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/41.png?lm=1597319274",
-      "Neuer Verein": "J. Regensburg",
+      "Alter Verein": "F. Düsseldorf",
+      "Link alter Verein": "/fortuna-dusseldorf/startseite/verein/38/saison_id/2026",
+      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/38.png?lm=1405514004",
+      "Neuer Verein": "VfL Osnabrück",
       "Transferdatum": "01.07.2026",
-      "Marktwert": "150 Tsd. €",
-      "Ablöse": "Leihe"
+      "Marktwert": "400 Tsd. €",
+      "Ablöse": "ablösefrei"
     },
     {
       "Spieler": "Jong-min Seo",
@@ -20328,19 +20343,19 @@
       "Ablöse": "Leihe"
     },
     {
-      "Spieler": "Hannes Hermann",
-      "Spielerprofil": "/hannes-hermann/profil/spieler/894692",
-      "Position": "Torwart",
+      "Spieler": "Luca Raimund",
+      "Spielerprofil": "/luca-raimund/profil/spieler/907489",
+      "Position": "Rechtsaußen",
       "Alter": "21",
       "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
       "Nation 2": null,
-      "Alter Verein": "Hamburger SV",
-      "Link alter Verein": "/hamburger-sv/startseite/verein/41/saison_id/2026",
-      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/41.png?lm=1597319274",
-      "Neuer Verein": "J. Regensburg",
+      "Alter Verein": "F. Düsseldorf",
+      "Link alter Verein": "/fortuna-dusseldorf/startseite/verein/38/saison_id/2026",
+      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/38.png?lm=1405514004",
+      "Neuer Verein": "VfL Osnabrück",
       "Transferdatum": "01.07.2026",
-      "Marktwert": "150 Tsd. €",
-      "Ablöse": "Leihe"
+      "Marktwert": "400 Tsd. €",
+      "Ablöse": "ablösefrei"
     },
     {
       "Spieler": "Jong-min Seo",
@@ -20703,19 +20718,19 @@
       "Ablöse": "Leihe"
     },
     {
-      "Spieler": "Hannes Hermann",
-      "Spielerprofil": "/hannes-hermann/profil/spieler/894692",
-      "Position": "Torwart",
+      "Spieler": "Luca Raimund",
+      "Spielerprofil": "/luca-raimund/profil/spieler/907489",
+      "Position": "Rechtsaußen",
       "Alter": "21",
       "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
       "Nation 2": null,
-      "Alter Verein": "Hamburger SV",
-      "Link alter Verein": "/hamburger-sv/startseite/verein/41/saison_id/2026",
-      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/41.png?lm=1597319274",
-      "Neuer Verein": "J. Regensburg",
+      "Alter Verein": "F. Düsseldorf",
+      "Link alter Verein": "/fortuna-dusseldorf/startseite/verein/38/saison_id/2026",
+      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/38.png?lm=1405514004",
+      "Neuer Verein": "VfL Osnabrück",
       "Transferdatum": "01.07.2026",
-      "Marktwert": "150 Tsd. €",
-      "Ablöse": "Leihe"
+      "Marktwert": "400 Tsd. €",
+      "Ablöse": "ablösefrei"
     },
     {
       "Spieler": "Jong-min Seo",
@@ -21078,19 +21093,19 @@
       "Ablöse": "Leihe"
     },
     {
-      "Spieler": "Hannes Hermann",
-      "Spielerprofil": "/hannes-hermann/profil/spieler/894692",
-      "Position": "Torwart",
+      "Spieler": "Luca Raimund",
+      "Spielerprofil": "/luca-raimund/profil/spieler/907489",
+      "Position": "Rechtsaußen",
       "Alter": "21",
       "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
       "Nation 2": null,
-      "Alter Verein": "Hamburger SV",
-      "Link alter Verein": "/hamburger-sv/startseite/verein/41/saison_id/2026",
-      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/41.png?lm=1597319274",
-      "Neuer Verein": "J. Regensburg",
+      "Alter Verein": "F. Düsseldorf",
+      "Link alter Verein": "/fortuna-dusseldorf/startseite/verein/38/saison_id/2026",
+      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/38.png?lm=1405514004",
+      "Neuer Verein": "VfL Osnabrück",
       "Transferdatum": "01.07.2026",
-      "Marktwert": "150 Tsd. €",
-      "Ablöse": "Leihe"
+      "Marktwert": "400 Tsd. €",
+      "Ablöse": "ablösefrei"
     },
     {
       "Spieler": "Jong-min Seo",
@@ -21453,19 +21468,19 @@
       "Ablöse": "Leihe"
     },
     {
-      "Spieler": "Hannes Hermann",
-      "Spielerprofil": "/hannes-hermann/profil/spieler/894692",
-      "Position": "Torwart",
+      "Spieler": "Luca Raimund",
+      "Spielerprofil": "/luca-raimund/profil/spieler/907489",
+      "Position": "Rechtsaußen",
       "Alter": "21",
       "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
       "Nation 2": null,
-      "Alter Verein": "Hamburger SV",
-      "Link alter Verein": "/hamburger-sv/startseite/verein/41/saison_id/2026",
-      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/41.png?lm=1597319274",
-      "Neuer Verein": "J. Regensburg",
+      "Alter Verein": "F. Düsseldorf",
+      "Link alter Verein": "/fortuna-dusseldorf/startseite/verein/38/saison_id/2026",
+      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/38.png?lm=1405514004",
+      "Neuer Verein": "VfL Osnabrück",
       "Transferdatum": "01.07.2026",
-      "Marktwert": "150 Tsd. €",
-      "Ablöse": "Leihe"
+      "Marktwert": "400 Tsd. €",
+      "Ablöse": "ablösefrei"
     },
     {
       "Spieler": "Jong-min Seo",
@@ -21825,21 +21840,6 @@
       "Neuer Verein": "A. Lustenau",
       "Transferdatum": "01.07.2026",
       "Marktwert": "250 Tsd. €",
-      "Ablöse": "Leihe"
-    },
-    {
-      "Spieler": "Hannes Hermann",
-      "Spielerprofil": "/hannes-hermann/profil/spieler/894692",
-      "Position": "Torwart",
-      "Alter": "21",
-      "Nation": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
-      "Nation 2": null,
-      "Alter Verein": "Hamburger SV",
-      "Link alter Verein": "/hamburger-sv/startseite/verein/41/saison_id/2026",
-      "Wappen alter Verein": "https://tmssl.akamaized.net//images/wappen/tiny/41.png?lm=1597319274",
-      "Neuer Verein": "J. Regensburg",
-      "Transferdatum": "01.07.2026",
-      "Marktwert": "150 Tsd. €",
       "Ablöse": "Leihe"
     }
   ]
