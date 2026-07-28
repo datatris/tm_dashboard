@@ -1,7 +1,133 @@
 {
-  "letzte_aktualisierung": "2026-07-27T22:15:35.595456+00:00",
+  "letzte_aktualisierung": "2026-07-28T02:57:15.352692+00:00",
   "anzahl": 239,
   "geruechte": [
+    {
+      "Spieler": "Stepan Chaloupek",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/944827-1769071543.jpg?lm=1",
+      "Link Spieler": "/stepan-chaloupek/profil/spieler/944827",
+      "Marktwert": "10,00 Mio.",
+      "Aktueller Verein": "SK Slavia Prag",
+      "Link aktueller Verein": "/sk-slavia-prag/startseite/verein/62",
+      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/62.png?lm=1659955223",
+      "Potenzieller Verein": "Hamburger SV",
+      "Link potenzieller Verein": "/hamburger-sv/startseite/verein/41",
+      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/41.png?lm=1597319274",
+      "Wahrscheinlichkeit": "5",
+      "Letzter Stand": "28.07.2026 04:11"
+    },
+    {
+      "Spieler": "Cyriaque Irié",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/1145064-1753954975.jpg?lm=1",
+      "Link Spieler": "/cyriaque-irie/profil/spieler/1145064",
+      "Marktwert": "8,00 Mio.",
+      "Aktueller Verein": "SC Freiburg",
+      "Link aktueller Verein": "/sc-freiburg/startseite/verein/60",
+      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/60.png?lm=1517249279",
+      "Potenzieller Verein": "FC Lorient",
+      "Link potenzieller Verein": "/fc-lorient/startseite/verein/1158",
+      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/1158.png?lm=1406642498",
+      "Wahrscheinlichkeit": "17",
+      "Letzter Stand": "28.07.2026 01:48"
+    },
+    {
+      "Spieler": "Tae-seok Lee",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/639027-1781248383.jpg?lm=1",
+      "Link Spieler": "/tae-seok-lee/profil/spieler/639027",
+      "Marktwert": "2,00 Mio.",
+      "Aktueller Verein": "FK Austria Wien",
+      "Link aktueller Verein": "/fk-austria-wien/startseite/verein/14",
+      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/14.png?lm=1406739366",
+      "Potenzieller Verein": "Hamburger SV",
+      "Link potenzieller Verein": "/hamburger-sv/startseite/verein/41",
+      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/41.png?lm=1597319274",
+      "Wahrscheinlichkeit": "37",
+      "Letzter Stand": "28.07.2026 01:23"
+    },
+    {
+      "Spieler": "Raphael Onyedika",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/699783-1754511026.jpg?lm=1",
+      "Link Spieler": "/raphael-onyedika/profil/spieler/699783",
+      "Marktwert": "23,00 Mio.",
+      "Aktueller Verein": "Club Brügge",
+      "Link aktueller Verein": "/club-brugge/startseite/verein/2282",
+      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/2282.png?lm=1782886527",
+      "Potenzieller Verein": "Eintracht Frankfurt",
+      "Link potenzieller Verein": "/eintracht-frankfurt/startseite/verein/24",
+      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/24.png?lm=1700074979",
+      "Wahrscheinlichkeit": "71",
+      "Letzter Stand": "28.07.2026 01:14"
+    },
+    {
+      "Spieler": "Willem Geubbels",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/463620-1755009181.png?lm=1",
+      "Link Spieler": "/willem-geubbels/profil/spieler/463620",
+      "Marktwert": "5,00 Mio.",
+      "Aktueller Verein": "Paris FC",
+      "Link aktueller Verein": "/paris-fc/startseite/verein/10004",
+      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/10004.png?lm=1411995262",
+      "Potenzieller Verein": "SV Werder Bremen",
+      "Link potenzieller Verein": "/sv-werder-bremen/startseite/verein/86",
+      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/86.png?lm=1403082298",
+      "Wahrscheinlichkeit": null,
+      "Letzter Stand": "28.07.2026 01:13"
+    },
+    {
+      "Spieler": "Said El Mala",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/1168219-1761497362.jpg?lm=1",
+      "Link Spieler": "/said-el-mala/profil/spieler/1168219",
+      "Marktwert": "45,00 Mio.",
+      "Aktueller Verein": "1.FC Köln",
+      "Link aktueller Verein": "/1-fc-koln/startseite/verein/3",
+      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/3.png?lm=1656580823",
+      "Potenzieller Verein": "Borussia Dortmund",
+      "Link potenzieller Verein": "/borussia-dortmund/startseite/verein/16",
+      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/16.png?lm=1396275280",
+      "Wahrscheinlichkeit": "33",
+      "Letzter Stand": "28.07.2026 01:05"
+    },
+    {
+      "Spieler": "Ernest Poku",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/718303-1758703071.jpg?lm=1",
+      "Link Spieler": "/ernest-poku/profil/spieler/718303",
+      "Marktwert": "25,00 Mio.",
+      "Aktueller Verein": "Bayer 04 Leverkusen",
+      "Link aktueller Verein": "/bayer-04-leverkusen/startseite/verein/15",
+      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/15.png?lm=1710156317",
+      "Potenzieller Verein": "Nottingham Forest",
+      "Link potenzieller Verein": "/nottingham-forest/startseite/verein/703",
+      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/703.png?lm=1598890289",
+      "Wahrscheinlichkeit": null,
+      "Letzter Stand": "28.07.2026 00:48"
+    },
+    {
+      "Spieler": "Fábio Vieira",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/537598-1758188654.jpg?lm=1",
+      "Link Spieler": "/fabio-vieira/profil/spieler/537598",
+      "Marktwert": "18,00 Mio.",
+      "Aktueller Verein": "FC Arsenal",
+      "Link aktueller Verein": "/fc-arsenal/startseite/verein/11",
+      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/11.png?lm=1489787850",
+      "Potenzieller Verein": "Hamburger SV",
+      "Link potenzieller Verein": "/hamburger-sv/startseite/verein/41",
+      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/41.png?lm=1597319274",
+      "Wahrscheinlichkeit": "43",
+      "Letzter Stand": "28.07.2026 00:29"
+    },
+    {
+      "Spieler": "Dennis Cirkin",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/568006-1711448219.jpg?lm=1",
+      "Link Spieler": "/dennis-cirkin/profil/spieler/568006",
+      "Marktwert": "6,00 Mio.",
+      "Aktueller Verein": "Vereinslos",
+      "Link aktueller Verein": "/vereinslos/startseite/verein/515",
+      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/515.png?lm=1456997255",
+      "Potenzieller Verein": "FC Schalke 04",
+      "Link potenzieller Verein": "/fc-schalke-04/startseite/verein/33",
+      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/33.png?lm=1656580846",
+      "Wahrscheinlichkeit": "22",
+      "Letzter Stand": "28.07.2026 00:18"
+    },
     {
       "Spieler": "Dzenan Pejcinovic",
       "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/819636-1689865855.jpg?lm=1",
@@ -17,34 +143,6 @@
       "Letzter Stand": "28.07.2026 00:13"
     },
     {
-      "Spieler": "Willem Geubbels",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/463620-1755009181.png?lm=1",
-      "Link Spieler": "/willem-geubbels/profil/spieler/463620",
-      "Marktwert": "5,00 Mio.",
-      "Aktueller Verein": "Paris FC",
-      "Link aktueller Verein": "/paris-fc/startseite/verein/10004",
-      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/10004.png?lm=1411995262",
-      "Potenzieller Verein": "SV Werder Bremen",
-      "Link potenzieller Verein": "/sv-werder-bremen/startseite/verein/86",
-      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/86.png?lm=1403082298",
-      "Wahrscheinlichkeit": null,
-      "Letzter Stand": "28.07.2026 00:09"
-    },
-    {
-      "Spieler": "Said El Mala",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/1168219-1761497362.jpg?lm=1",
-      "Link Spieler": "/said-el-mala/profil/spieler/1168219",
-      "Marktwert": "45,00 Mio.",
-      "Aktueller Verein": "1.FC Köln",
-      "Link aktueller Verein": "/1-fc-koln/startseite/verein/3",
-      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/3.png?lm=1656580823",
-      "Potenzieller Verein": "Borussia Dortmund",
-      "Link potenzieller Verein": "/borussia-dortmund/startseite/verein/16",
-      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/16.png?lm=1396275280",
-      "Wahrscheinlichkeit": "32",
-      "Letzter Stand": "28.07.2026 00:05"
-    },
-    {
       "Spieler": "Andreas Skov Olsen",
       "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/432982-1752736201.jpg?lm=1",
       "Link Spieler": "/andreas-skov-olsen/profil/spieler/432982",
@@ -55,22 +153,8 @@
       "Potenzieller Verein": "Basaksehir FK",
       "Link potenzieller Verein": "/basaksehir-fk/startseite/verein/6890",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/6890.png?lm=1753429032",
-      "Wahrscheinlichkeit": null,
+      "Wahrscheinlichkeit": "87",
       "Letzter Stand": "27.07.2026 23:40"
-    },
-    {
-      "Spieler": "Dennis Cirkin",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/568006-1711448219.jpg?lm=1",
-      "Link Spieler": "/dennis-cirkin/profil/spieler/568006",
-      "Marktwert": "6,00 Mio.",
-      "Aktueller Verein": "Vereinslos",
-      "Link aktueller Verein": "/vereinslos/startseite/verein/515",
-      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/515.png?lm=1456997255",
-      "Potenzieller Verein": "FC Schalke 04",
-      "Link potenzieller Verein": "/fc-schalke-04/startseite/verein/33",
-      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/33.png?lm=1656580846",
-      "Wahrscheinlichkeit": null,
-      "Letzter Stand": "27.07.2026 23:37"
     },
     {
       "Spieler": "Kento Shiogai",
@@ -97,7 +181,7 @@
       "Potenzieller Verein": "AEK Athen",
       "Link potenzieller Verein": "/aek-athen/startseite/verein/2441",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/2441.png?lm=1730987042",
-      "Wahrscheinlichkeit": "94",
+      "Wahrscheinlichkeit": "95",
       "Letzter Stand": "27.07.2026 23:27"
     },
     {
@@ -125,22 +209,8 @@
       "Potenzieller Verein": "Al-Hilal SFC",
       "Link potenzieller Verein": "/al-hilal-sfc/startseite/verein/1114",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/1114.png?lm=1755170975",
-      "Wahrscheinlichkeit": "42",
+      "Wahrscheinlichkeit": "41",
       "Letzter Stand": "27.07.2026 23:02"
-    },
-    {
-      "Spieler": "Stepan Chaloupek",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/944827-1769071543.jpg?lm=1",
-      "Link Spieler": "/stepan-chaloupek/profil/spieler/944827",
-      "Marktwert": "10,00 Mio.",
-      "Aktueller Verein": "SK Slavia Prag",
-      "Link aktueller Verein": "/sk-slavia-prag/startseite/verein/62",
-      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/62.png?lm=1659955223",
-      "Potenzieller Verein": "Hamburger SV",
-      "Link potenzieller Verein": "/hamburger-sv/startseite/verein/41",
-      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/41.png?lm=1597319274",
-      "Wahrscheinlichkeit": "4",
-      "Letzter Stand": "27.07.2026 22:47"
     },
     {
       "Spieler": "Meiko Wäschenbach",
@@ -181,7 +251,7 @@
       "Potenzieller Verein": "Borussia Dortmund",
       "Link potenzieller Verein": "/borussia-dortmund/startseite/verein/16",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/16.png?lm=1396275280",
-      "Wahrscheinlichkeit": "74",
+      "Wahrscheinlichkeit": "75",
       "Letzter Stand": "27.07.2026 22:24"
     },
     {
@@ -223,22 +293,8 @@
       "Potenzieller Verein": "Real Madrid",
       "Link potenzieller Verein": "/real-madrid/startseite/verein/418",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/418.png?lm=1729684474",
-      "Wahrscheinlichkeit": "75",
+      "Wahrscheinlichkeit": "76",
       "Letzter Stand": "27.07.2026 21:46"
-    },
-    {
-      "Spieler": "Fábio Vieira",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/537598-1758188654.jpg?lm=1",
-      "Link Spieler": "/fabio-vieira/profil/spieler/537598",
-      "Marktwert": "18,00 Mio.",
-      "Aktueller Verein": "FC Arsenal",
-      "Link aktueller Verein": "/fc-arsenal/startseite/verein/11",
-      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/11.png?lm=1489787850",
-      "Potenzieller Verein": "Hamburger SV",
-      "Link potenzieller Verein": "/hamburger-sv/startseite/verein/41",
-      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/41.png?lm=1597319274",
-      "Wahrscheinlichkeit": "43",
-      "Letzter Stand": "27.07.2026 21:44"
     },
     {
       "Spieler": "Adam Daghim",
@@ -335,7 +391,7 @@
       "Potenzieller Verein": "Fenerbahce",
       "Link potenzieller Verein": "/fenerbahce/startseite/verein/36",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/36.png?lm=1753429185",
-      "Wahrscheinlichkeit": "57",
+      "Wahrscheinlichkeit": "60",
       "Letzter Stand": "27.07.2026 20:27"
     },
     {
@@ -377,7 +433,7 @@
       "Potenzieller Verein": "VfB Stuttgart",
       "Link potenzieller Verein": "/vfb-stuttgart/startseite/verein/79",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/79.png?lm=1680587427",
-      "Wahrscheinlichkeit": "62",
+      "Wahrscheinlichkeit": "63",
       "Letzter Stand": "27.07.2026 19:00"
     },
     {
@@ -521,20 +577,6 @@
       "Letzter Stand": "27.07.2026 18:07"
     },
     {
-      "Spieler": "Cyriaque Irié",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/1145064-1753954975.jpg?lm=1",
-      "Link Spieler": "/cyriaque-irie/profil/spieler/1145064",
-      "Marktwert": "8,00 Mio.",
-      "Aktueller Verein": "SC Freiburg",
-      "Link aktueller Verein": "/sc-freiburg/startseite/verein/60",
-      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/60.png?lm=1517249279",
-      "Potenzieller Verein": "FC Lorient",
-      "Link potenzieller Verein": "/fc-lorient/startseite/verein/1158",
-      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/1158.png?lm=1406642498",
-      "Wahrscheinlichkeit": "18",
-      "Letzter Stand": "27.07.2026 18:02"
-    },
-    {
       "Spieler": "Daisuke Yokota",
       "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/602781-1757924561.png?lm=1",
       "Link Spieler": "/daisuke-yokota/profil/spieler/602781",
@@ -561,20 +603,6 @@
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/371.png?lm=1758007391",
       "Wahrscheinlichkeit": "44",
       "Letzter Stand": "27.07.2026 16:42"
-    },
-    {
-      "Spieler": "Raphael Onyedika",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/699783-1754511026.jpg?lm=1",
-      "Link Spieler": "/raphael-onyedika/profil/spieler/699783",
-      "Marktwert": "23,00 Mio.",
-      "Aktueller Verein": "Club Brügge",
-      "Link aktueller Verein": "/club-brugge/startseite/verein/2282",
-      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/2282.png?lm=1782886527",
-      "Potenzieller Verein": "Eintracht Frankfurt",
-      "Link potenzieller Verein": "/eintracht-frankfurt/startseite/verein/24",
-      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/24.png?lm=1700074979",
-      "Wahrscheinlichkeit": "70",
-      "Letzter Stand": "27.07.2026 16:34"
     },
     {
       "Spieler": "Kaan Ayhan",
@@ -617,20 +645,6 @@
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/3.png?lm=1656580823",
       "Wahrscheinlichkeit": "23",
       "Letzter Stand": "27.07.2026 16:00"
-    },
-    {
-      "Spieler": "Tae-seok Lee",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/639027-1781248383.jpg?lm=1",
-      "Link Spieler": "/tae-seok-lee/profil/spieler/639027",
-      "Marktwert": "2,00 Mio.",
-      "Aktueller Verein": "FK Austria Wien",
-      "Link aktueller Verein": "/fk-austria-wien/startseite/verein/14",
-      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/14.png?lm=1406739366",
-      "Potenzieller Verein": "Hamburger SV",
-      "Link potenzieller Verein": "/hamburger-sv/startseite/verein/41",
-      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/41.png?lm=1597319274",
-      "Wahrscheinlichkeit": "37",
-      "Letzter Stand": "27.07.2026 15:58"
     },
     {
       "Spieler": "Chrislain Matsima",
@@ -965,7 +979,7 @@
       "Potenzieller Verein": "Hamburger SV",
       "Link potenzieller Verein": "/hamburger-sv/startseite/verein/41",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/41.png?lm=1597319274",
-      "Wahrscheinlichkeit": "25",
+      "Wahrscheinlichkeit": "24",
       "Letzter Stand": "26.07.2026 20:14"
     },
     {
@@ -1735,7 +1749,7 @@
       "Potenzieller Verein": "Leeds United",
       "Link potenzieller Verein": "/leeds-united/startseite/verein/399",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/399.png?lm=1645652224",
-      "Wahrscheinlichkeit": "48",
+      "Wahrscheinlichkeit": "53",
       "Letzter Stand": "23.07.2026 19:22"
     },
     {
@@ -2075,20 +2089,6 @@
       "Letzter Stand": "23.07.2026 09:50"
     },
     {
-      "Spieler": "Ernest Poku",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/718303-1758703071.jpg?lm=1",
-      "Link Spieler": "/ernest-poku/profil/spieler/718303",
-      "Marktwert": "25,00 Mio.",
-      "Aktueller Verein": "Bayer 04 Leverkusen",
-      "Link aktueller Verein": "/bayer-04-leverkusen/startseite/verein/15",
-      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/15.png?lm=1710156317",
-      "Potenzieller Verein": "Nottingham Forest",
-      "Link potenzieller Verein": "/nottingham-forest/startseite/verein/703",
-      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/703.png?lm=1598890289",
-      "Wahrscheinlichkeit": null,
-      "Letzter Stand": "23.07.2026 09:22"
-    },
-    {
       "Spieler": "Djibril Gueye",
       "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
       "Link Spieler": "/djibril-gueye/profil/spieler/1476611",
@@ -2351,7 +2351,7 @@
       "Potenzieller Verein": "Manchester United",
       "Link potenzieller Verein": "/manchester-united/startseite/verein/985",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/985.png?lm=1457975903",
-      "Wahrscheinlichkeit": "19",
+      "Wahrscheinlichkeit": "16",
       "Letzter Stand": "22.07.2026 15:16"
     },
     {
@@ -2365,7 +2365,7 @@
       "Potenzieller Verein": "Newcastle United",
       "Link potenzieller Verein": "/newcastle-united/startseite/verein/762",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/762.png?lm=1472921161",
-      "Wahrscheinlichkeit": "52",
+      "Wahrscheinlichkeit": "53",
       "Letzter Stand": "22.07.2026 15:16"
     },
     {
@@ -2645,7 +2645,7 @@
       "Potenzieller Verein": "Olympiakos Piräus",
       "Link potenzieller Verein": "/olympiakos-piraus/startseite/verein/683",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/683.png?lm=1717764764",
-      "Wahrscheinlichkeit": "38",
+      "Wahrscheinlichkeit": "33",
       "Letzter Stand": "21.07.2026 07:27"
     },
     {
