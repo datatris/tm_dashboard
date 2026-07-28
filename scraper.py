@@ -11,7 +11,9 @@ Html.Table(...)-Abfrage in Power Query, damit die Spaltenlogik identisch bleibt.
 
 import json
 import os
+import re
 import time
+import urllib.parse
 from datetime import datetime, timezone
 
 from bs4 import BeautifulSoup
@@ -25,6 +27,11 @@ MAX_SEITEN = 20
 OUTPUT_FILE = "data.json"
 DEBUG_DIR = "debug"
 DEBUG = os.environ.get("SCRAPER_DEBUG", "1") != "0"  # standardmäßig an
+
+# --- Für die Vereinsanreicherung (Wappen/Link "Neuer Verein") ---
+CREST_BASE = "https://tmssl.akamaized.net//images/wappen/medium/"
+ALTER_VEREIN_TINY_PREFIX = "https://tmssl.akamaized.net//images/wappen/tiny/"
+KARRIEREENDE_ID = "123"
 
 
 def parse_row(row):
@@ -150,10 +157,105 @@ def scrape(context):
     return alle_transfers
 
 
+def alte_vereins_id(wappen_alter_verein):
+    """
+    Entspricht der M-Formel für 'AlterVereinsId': die Vereins-ID steckt
+    bereits im vorhandenen Wappen-Link ("Wappen alter Verein"), es ist also
+    kein zusätzlicher Request nötig - nur reines String-Parsing.
+    Die echten URLs enden mit ".png?lm=<timestamp>", daher wird (wie im
+    Original) am ersten ".png" abgeschnitten statt nur auf das Suffix zu prüfen.
+    """
+    if not wappen_alter_verein or ALTER_VEREIN_TINY_PREFIX not in wappen_alter_verein:
+        return None
+    rest = wappen_alter_verein.split(ALTER_VEREIN_TINY_PREFIX, 1)[1]
+    verein_id = rest.split(".png", 1)[0]
+    return verein_id or None
+
+
+def _debug_name_fuer_verein(name):
+    kurz = re.sub(r"[^a-zA-Z0-9]+", "_", name).strip("_")[:40]
+    return f"verein_suche_{kurz or 'unbekannt'}"
+
+
+def suche_verein(context, name):
+    """
+    Entspricht Suchanfrage -> ErsetzterWertWappen -> Suchdaten -> NeueVereinsId:
+    sucht einen Verein über die Transfermarkt-Schnellsuche und liest aus dem
+    ersten Treffer mit '.../startseite/verein/...' im Link die Vereins-ID,
+    daraus lassen sich Wappen-URL und voller Vereinslink ableiten.
+    """
+    if name == "Karriereende":
+        return {
+            "Link neuer Verein": None,
+            "Wappen neuer Verein": f"{CREST_BASE}{KARRIEREENDE_ID}.png",
+            "NeuerVereinId": KARRIEREENDE_ID,
+        }
+
+    query = urllib.parse.quote_plus(name)
+    url = f"{BASE_URL}/schnellsuche/ergebnis/schnellsuche?query={query}"
+
+    leer = {"Link neuer Verein": None, "Wappen neuer Verein": None, "NeuerVereinId": None}
+
+    try:
+        html = seite_holen(context, url, DEBUG_DIR, DEBUG, debug_name=_debug_name_fuer_verein(name))
+    except Exception as exc:
+        print(f"[WARN] Vereinssuche '{name}': {type(exc).__name__}: {exc}")
+        return leer
+
+    soup = BeautifulSoup(html, "html.parser")
+
+    href_treffer = None
+    for kandidat in soup.select(".inline-table .hauptlink"):
+        a_tag = kandidat if kandidat.name == "a" else kandidat.find("a")
+        href = get_attr(a_tag, "href")
+        if href and "startseite/verein" in href:
+            href_treffer = href
+            break
+
+    if not href_treffer:
+        print(f"[WARN] Vereinssuche '{name}': kein Treffer mit 'startseite/verein' gefunden.")
+        return leer
+
+    verein_id = href_treffer.rstrip("/").split("/")[-1]
+    return {
+        "Link neuer Verein": BASE_URL + href_treffer,
+        "Wappen neuer Verein": f"{CREST_BASE}{verein_id}.png",
+        "NeuerVereinId": verein_id,
+    }
+
+
+def vereinsdaten_anreichern(context, transfers):
+    """
+    Entspricht dem Block ab 'Abfrage Vereinswappen Neuer Verein' bis zum
+    NestedJoin zurück in die Haupttabelle: für jeden eindeutigen "Neuer
+    Verein"-Namen wird einmal gesucht (statt pro Transfer-Zeile), das
+    Ergebnis wird anschließend allen passenden Zeilen zugeordnet.
+    """
+    distinct_vereine = sorted({t["Neuer Verein"] for t in transfers if t.get("Neuer Verein")})
+    print(f"[INFO] Vereinssuche für {len(distinct_vereine)} unterschiedliche neue Vereine ...")
+
+    cache = {}
+    for i, name in enumerate(distinct_vereine, start=1):
+        cache[name] = suche_verein(context, name)
+        if i % 25 == 0:
+            print(f"[INFO] Vereinssuche: {i}/{len(distinct_vereine)} erledigt")
+        time.sleep(1)
+
+    for t in transfers:
+        info = cache.get(t.get("Neuer Verein"), {})
+        t["Link neuer Verein"] = info.get("Link neuer Verein")
+        t["Wappen neuer Verein"] = info.get("Wappen neuer Verein")
+        t["NeuerVereinId"] = info.get("NeuerVereinId")
+        t["AlterVereinsId"] = alte_vereins_id(t.get("Wappen alter Verein"))
+
+    return transfers
+
+
 def main():
     with sync_playwright() as p:
         browser, context = neuen_browser_kontext(p)
         transfers = scrape(context)
+        transfers = vereinsdaten_anreichern(context, transfers)
         browser.close()
 
     ausgabe = {
