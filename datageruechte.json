@@ -1,34 +1,20 @@
 {
-  "letzte_aktualisierung": "2026-08-01T16:21:44.305852+00:00",
+  "letzte_aktualisierung": "2026-08-01T19:35:28.364228+00:00",
   "anzahl": 244,
   "geruechte": [
     {
-      "Spieler": "Dzenan Pejcinovic",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/819636-1689865855.jpg?lm=1",
-      "Link Spieler": "/dzenan-pejcinovic/profil/spieler/819636",
-      "Marktwert": "15,00 Mio.",
-      "Aktueller Verein": "VfL Wolfsburg",
-      "Link aktueller Verein": "/vfl-wolfsburg/startseite/verein/82",
-      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/82.png?lm=1778348110",
-      "Potenzieller Verein": "VfB Stuttgart",
-      "Link potenzieller Verein": "/vfb-stuttgart/startseite/verein/79",
-      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/79.png?lm=1680587427",
-      "Wahrscheinlichkeit": "60",
-      "Letzter Stand": "01.08.2026 18:19"
-    },
-    {
-      "Spieler": "Yan Diomande",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/1390649-1759779499.jpg?lm=1",
-      "Link Spieler": "/yan-diomande/profil/spieler/1390649",
-      "Marktwert": "90,00 Mio.",
-      "Aktueller Verein": "RB Leipzig",
-      "Link aktueller Verein": "/rb-leipzig/startseite/verein/23826",
-      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/23826.png?lm=1619431624",
-      "Potenzieller Verein": "Real Madrid",
-      "Link potenzieller Verein": "/real-madrid/startseite/verein/418",
-      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/418.png?lm=1729684474",
-      "Wahrscheinlichkeit": "82",
-      "Letzter Stand": "01.08.2026 18:13"
+      "Spieler": "Exequiel Palacios",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/401578-1695368200.jpg?lm=1",
+      "Link Spieler": "/exequiel-palacios/profil/spieler/401578",
+      "Marktwert": "25,00 Mio.",
+      "Aktueller Verein": "Bayer 04 Leverkusen",
+      "Link aktueller Verein": "/bayer-04-leverkusen/startseite/verein/15",
+      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/15.png?lm=1710156317",
+      "Potenzieller Verein": "RB Leipzig",
+      "Link potenzieller Verein": "/rb-leipzig/startseite/verein/23826",
+      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/23826.png?lm=1619431624",
+      "Wahrscheinlichkeit": "14",
+      "Letzter Stand": "01.08.2026 21:32"
     },
     {
       "Spieler": "Said El Mala",
@@ -42,7 +28,7 @@
       "Link potenzieller Verein": "/borussia-dortmund/startseite/verein/16",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/16.png?lm=1396275280",
       "Wahrscheinlichkeit": "36",
-      "Letzter Stand": "01.08.2026 18:02"
+      "Letzter Stand": "01.08.2026 21:30"
     },
     {
       "Spieler": "Péter Gulácsi",
@@ -55,8 +41,176 @@
       "Potenzieller Verein": "FC Villarreal",
       "Link potenzieller Verein": "/fc-villarreal/startseite/verein/1050",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/1050.png?lm=1408655310",
-      "Wahrscheinlichkeit": "77",
-      "Letzter Stand": "01.08.2026 17:35"
+      "Wahrscheinlichkeit": "69",
+      "Letzter Stand": "01.08.2026 21:27"
+    },
+    {
+      "Spieler": "Ethan Nwaneri",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/890719-1730794927.jpg?lm=1",
+      "Link Spieler": "/ethan-nwaneri/profil/spieler/890719",
+      "Marktwert": "35,00 Mio.",
+      "Aktueller Verein": "FC Arsenal",
+      "Link aktueller Verein": "/fc-arsenal/startseite/verein/11",
+      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/11.png?lm=1489787850",
+      "Potenzieller Verein": "Borussia Dortmund",
+      "Link potenzieller Verein": "/borussia-dortmund/startseite/verein/16",
+      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/16.png?lm=1396275280",
+      "Wahrscheinlichkeit": "32",
+      "Letzter Stand": "01.08.2026 21:16"
+    },
+    {
+      "Spieler": "Vini Souza",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/663581-1752736121.jpg?lm=1",
+      "Link Spieler": "/vini-souza/profil/spieler/663581",
+      "Marktwert": "7,00 Mio.",
+      "Aktueller Verein": "VfL Wolfsburg",
+      "Link aktueller Verein": "/vfl-wolfsburg/startseite/verein/82",
+      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/82.png?lm=1778348110",
+      "Potenzieller Verein": "1.FC Köln",
+      "Link potenzieller Verein": "/1-fc-koln/startseite/verein/3",
+      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/3.png?lm=1656580823",
+      "Wahrscheinlichkeit": "22",
+      "Letzter Stand": "01.08.2026 20:59"
+    },
+    {
+      "Spieler": "Ørjan Nyland",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/73517-1779430891.jpg?lm=1",
+      "Link Spieler": "/orjan-nyland/profil/spieler/73517",
+      "Marktwert": "800 Tsd.",
+      "Aktueller Verein": "Vereinslos",
+      "Link aktueller Verein": "/vereinslos/startseite/verein/515",
+      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/515.png?lm=1456997255",
+      "Potenzieller Verein": "RB Leipzig",
+      "Link potenzieller Verein": "/rb-leipzig/startseite/verein/23826",
+      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/23826.png?lm=1619431624",
+      "Wahrscheinlichkeit": "67",
+      "Letzter Stand": "01.08.2026 20:58"
+    },
+    {
+      "Spieler": "Raphael Onyedika",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/699783-1754511026.jpg?lm=1",
+      "Link Spieler": "/raphael-onyedika/profil/spieler/699783",
+      "Marktwert": "23,00 Mio.",
+      "Aktueller Verein": "Club Brügge",
+      "Link aktueller Verein": "/club-brugge/startseite/verein/2282",
+      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/2282.png?lm=1782886527",
+      "Potenzieller Verein": "Eintracht Frankfurt",
+      "Link potenzieller Verein": "/eintracht-frankfurt/startseite/verein/24",
+      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/24.png?lm=1700074979",
+      "Wahrscheinlichkeit": "84",
+      "Letzter Stand": "01.08.2026 20:52"
+    },
+    {
+      "Spieler": "Mert Kömür",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/777005-1755201514.jpg?lm=1",
+      "Link Spieler": "/mert-komur/profil/spieler/777005",
+      "Marktwert": "12,00 Mio.",
+      "Aktueller Verein": "FC Augsburg",
+      "Link aktueller Verein": "/fc-augsburg/startseite/verein/167",
+      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/167.png?lm=1656582897",
+      "Potenzieller Verein": "Hull City",
+      "Link potenzieller Verein": "/hull-city/startseite/verein/3008",
+      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/3008.png?lm=1562662491",
+      "Wahrscheinlichkeit": "49",
+      "Letzter Stand": "01.08.2026 20:51"
+    },
+    {
+      "Spieler": "Elias Baum",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/744857-1722953003.jpg?lm=1",
+      "Link Spieler": "/elias-baum/profil/spieler/744857",
+      "Marktwert": "4,00 Mio.",
+      "Aktueller Verein": "Eintracht Frankfurt",
+      "Link aktueller Verein": "/eintracht-frankfurt/startseite/verein/24",
+      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/24.png?lm=1700074979",
+      "Potenzieller Verein": "Borussia Dortmund",
+      "Link potenzieller Verein": "/borussia-dortmund/startseite/verein/16",
+      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/16.png?lm=1396275280",
+      "Wahrscheinlichkeit": "27",
+      "Letzter Stand": "01.08.2026 20:45"
+    },
+    {
+      "Spieler": "Dzenan Pejcinovic",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/819636-1689865855.jpg?lm=1",
+      "Link Spieler": "/dzenan-pejcinovic/profil/spieler/819636",
+      "Marktwert": "15,00 Mio.",
+      "Aktueller Verein": "VfL Wolfsburg",
+      "Link aktueller Verein": "/vfl-wolfsburg/startseite/verein/82",
+      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/82.png?lm=1778348110",
+      "Potenzieller Verein": "VfB Stuttgart",
+      "Link potenzieller Verein": "/vfb-stuttgart/startseite/verein/79",
+      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/79.png?lm=1680587427",
+      "Wahrscheinlichkeit": "60",
+      "Letzter Stand": "01.08.2026 20:34"
+    },
+    {
+      "Spieler": "Kerim Alajbegovic",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/929994-1754993481.png?lm=1",
+      "Link Spieler": "/kerim-alajbegovic/profil/spieler/929994",
+      "Marktwert": "25,00 Mio.",
+      "Aktueller Verein": "Bayer 04 Leverkusen",
+      "Link aktueller Verein": "/bayer-04-leverkusen/startseite/verein/15",
+      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/15.png?lm=1710156317",
+      "Potenzieller Verein": "Juventus Turin",
+      "Link potenzieller Verein": "/juventus-turin/startseite/verein/506",
+      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/506.png?lm=1626441487",
+      "Wahrscheinlichkeit": "81",
+      "Letzter Stand": "01.08.2026 20:16"
+    },
+    {
+      "Spieler": "Giovanni Reyna",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/504215-1760967520.jpg?lm=1",
+      "Link Spieler": "/giovanni-reyna/profil/spieler/504215",
+      "Marktwert": "4,00 Mio.",
+      "Aktueller Verein": "Borussia Mönchengladbach",
+      "Link aktueller Verein": "/borussia-monchengladbach/startseite/verein/18",
+      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/18.png?lm=1656585796",
+      "Potenzieller Verein": "RC Straßburg Alsace",
+      "Link potenzieller Verein": "/rc-strassburg-alsace/startseite/verein/667",
+      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/667.png?lm=1664991833",
+      "Wahrscheinlichkeit": "51",
+      "Letzter Stand": "01.08.2026 20:13"
+    },
+    {
+      "Spieler": "Yan Diomande",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/1390649-1759779499.jpg?lm=1",
+      "Link Spieler": "/yan-diomande/profil/spieler/1390649",
+      "Marktwert": "90,00 Mio.",
+      "Aktueller Verein": "RB Leipzig",
+      "Link aktueller Verein": "/rb-leipzig/startseite/verein/23826",
+      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/23826.png?lm=1619431624",
+      "Potenzieller Verein": "Real Madrid",
+      "Link potenzieller Verein": "/real-madrid/startseite/verein/418",
+      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/418.png?lm=1729684474",
+      "Wahrscheinlichkeit": "82",
+      "Letzter Stand": "01.08.2026 19:48"
+    },
+    {
+      "Spieler": "K. Koulierakis",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/669380-1752736071.jpg?lm=1",
+      "Link Spieler": "/k-koulierakis/profil/spieler/669380",
+      "Marktwert": "25,00 Mio.",
+      "Aktueller Verein": "VfL Wolfsburg",
+      "Link aktueller Verein": "/vfl-wolfsburg/startseite/verein/82",
+      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/82.png?lm=1778348110",
+      "Potenzieller Verein": "AS Rom",
+      "Link potenzieller Verein": "/as-rom/startseite/verein/12",
+      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/12.png?lm=1751979202",
+      "Wahrscheinlichkeit": "80",
+      "Letzter Stand": "01.08.2026 18:38"
+    },
+    {
+      "Spieler": "Mika Schroers",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/472246-1722417032.jpg?lm=1",
+      "Link Spieler": "/mika-schroers/profil/spieler/472246",
+      "Marktwert": "750 Tsd.",
+      "Aktueller Verein": "Alemannia Aachen",
+      "Link aktueller Verein": "/alemannia-aachen/startseite/verein/8",
+      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/8.png?lm=1403603100",
+      "Potenzieller Verein": "1.FC Nürnberg",
+      "Link potenzieller Verein": "/1-fc-nurnberg/startseite/verein/4",
+      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/4.png?lm=1525459914",
+      "Wahrscheinlichkeit": "66",
+      "Letzter Stand": "01.08.2026 18:26"
     },
     {
       "Spieler": "Alan Virginius",
@@ -69,7 +223,7 @@
       "Potenzieller Verein": "Hamburger SV",
       "Link potenzieller Verein": "/hamburger-sv/startseite/verein/41",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/41.png?lm=1597319274",
-      "Wahrscheinlichkeit": "23",
+      "Wahrscheinlichkeit": "20",
       "Letzter Stand": "01.08.2026 17:26"
     },
     {
@@ -101,20 +255,6 @@
       "Letzter Stand": "01.08.2026 17:02"
     },
     {
-      "Spieler": "Ethan Nwaneri",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/890719-1730794927.jpg?lm=1",
-      "Link Spieler": "/ethan-nwaneri/profil/spieler/890719",
-      "Marktwert": "35,00 Mio.",
-      "Aktueller Verein": "FC Arsenal",
-      "Link aktueller Verein": "/fc-arsenal/startseite/verein/11",
-      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/11.png?lm=1489787850",
-      "Potenzieller Verein": "Borussia Dortmund",
-      "Link potenzieller Verein": "/borussia-dortmund/startseite/verein/16",
-      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/16.png?lm=1396275280",
-      "Wahrscheinlichkeit": "26",
-      "Letzter Stand": "01.08.2026 16:53"
-    },
-    {
       "Spieler": "Benjamin Sesko",
       "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/627442-1779803478.jpg?lm=1",
       "Link Spieler": "/benjamin-sesko/profil/spieler/627442",
@@ -127,20 +267,6 @@
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1729503608",
       "Wahrscheinlichkeit": "4",
       "Letzter Stand": "01.08.2026 16:01"
-    },
-    {
-      "Spieler": "K. Koulierakis",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/669380-1752736071.jpg?lm=1",
-      "Link Spieler": "/k-koulierakis/profil/spieler/669380",
-      "Marktwert": "25,00 Mio.",
-      "Aktueller Verein": "VfL Wolfsburg",
-      "Link aktueller Verein": "/vfl-wolfsburg/startseite/verein/82",
-      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/82.png?lm=1778348110",
-      "Potenzieller Verein": "AS Rom",
-      "Link potenzieller Verein": "/as-rom/startseite/verein/12",
-      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/12.png?lm=1751979202",
-      "Wahrscheinlichkeit": "80",
-      "Letzter Stand": "01.08.2026 15:57"
     },
     {
       "Spieler": "Miguel Gutiérrez",
@@ -157,20 +283,6 @@
       "Letzter Stand": "01.08.2026 15:51"
     },
     {
-      "Spieler": "Giovanni Reyna",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/504215-1760967520.jpg?lm=1",
-      "Link Spieler": "/giovanni-reyna/profil/spieler/504215",
-      "Marktwert": "4,00 Mio.",
-      "Aktueller Verein": "Borussia Mönchengladbach",
-      "Link aktueller Verein": "/borussia-monchengladbach/startseite/verein/18",
-      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/18.png?lm=1656585796",
-      "Potenzieller Verein": "RC Straßburg Alsace",
-      "Link potenzieller Verein": "/rc-strassburg-alsace/startseite/verein/667",
-      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/667.png?lm=1664991833",
-      "Wahrscheinlichkeit": "51",
-      "Letzter Stand": "01.08.2026 15:02"
-    },
-    {
       "Spieler": "Facundo Buonanotte",
       "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/983989-1682588141.jpg?lm=1",
       "Link Spieler": "/facundo-buonanotte/profil/spieler/983989",
@@ -181,22 +293,8 @@
       "Potenzieller Verein": "FC Schalke 04",
       "Link potenzieller Verein": "/fc-schalke-04/startseite/verein/33",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/33.png?lm=1656580846",
-      "Wahrscheinlichkeit": "21",
+      "Wahrscheinlichkeit": "24",
       "Letzter Stand": "01.08.2026 13:35"
-    },
-    {
-      "Spieler": "Mert Kömür",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/777005-1755201514.jpg?lm=1",
-      "Link Spieler": "/mert-komur/profil/spieler/777005",
-      "Marktwert": "12,00 Mio.",
-      "Aktueller Verein": "FC Augsburg",
-      "Link aktueller Verein": "/fc-augsburg/startseite/verein/167",
-      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/167.png?lm=1656582897",
-      "Potenzieller Verein": "Hull City",
-      "Link potenzieller Verein": "/hull-city/startseite/verein/3008",
-      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/3008.png?lm=1562662491",
-      "Wahrscheinlichkeit": "49",
-      "Letzter Stand": "01.08.2026 13:34"
     },
     {
       "Spieler": "Tomas Bobcek",
@@ -241,20 +339,6 @@
       "Letzter Stand": "01.08.2026 11:49"
     },
     {
-      "Spieler": "Vini Souza",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/663581-1752736121.jpg?lm=1",
-      "Link Spieler": "/vini-souza/profil/spieler/663581",
-      "Marktwert": "7,00 Mio.",
-      "Aktueller Verein": "VfL Wolfsburg",
-      "Link aktueller Verein": "/vfl-wolfsburg/startseite/verein/82",
-      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/82.png?lm=1778348110",
-      "Potenzieller Verein": "1.FC Köln",
-      "Link potenzieller Verein": "/1-fc-koln/startseite/verein/3",
-      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/3.png?lm=1656580823",
-      "Wahrscheinlichkeit": "21",
-      "Letzter Stand": "01.08.2026 11:15"
-    },
-    {
       "Spieler": "Paul Nebel",
       "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/503160-1722886613.jpg?lm=1",
       "Link Spieler": "/paul-nebel/profil/spieler/503160",
@@ -267,48 +351,6 @@
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/23826.png?lm=1619431624",
       "Wahrscheinlichkeit": "43",
       "Letzter Stand": "01.08.2026 10:12"
-    },
-    {
-      "Spieler": "Kerim Alajbegovic",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/929994-1754993481.png?lm=1",
-      "Link Spieler": "/kerim-alajbegovic/profil/spieler/929994",
-      "Marktwert": "25,00 Mio.",
-      "Aktueller Verein": "Bayer 04 Leverkusen",
-      "Link aktueller Verein": "/bayer-04-leverkusen/startseite/verein/15",
-      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/15.png?lm=1710156317",
-      "Potenzieller Verein": "Juventus Turin",
-      "Link potenzieller Verein": "/juventus-turin/startseite/verein/506",
-      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/506.png?lm=1626441487",
-      "Wahrscheinlichkeit": "81",
-      "Letzter Stand": "01.08.2026 10:11"
-    },
-    {
-      "Spieler": "Raphael Onyedika",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/699783-1754511026.jpg?lm=1",
-      "Link Spieler": "/raphael-onyedika/profil/spieler/699783",
-      "Marktwert": "23,00 Mio.",
-      "Aktueller Verein": "Club Brügge",
-      "Link aktueller Verein": "/club-brugge/startseite/verein/2282",
-      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/2282.png?lm=1782886527",
-      "Potenzieller Verein": "Eintracht Frankfurt",
-      "Link potenzieller Verein": "/eintracht-frankfurt/startseite/verein/24",
-      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/24.png?lm=1700074979",
-      "Wahrscheinlichkeit": "83",
-      "Letzter Stand": "01.08.2026 09:32"
-    },
-    {
-      "Spieler": "Mika Schroers",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/472246-1722417032.jpg?lm=1",
-      "Link Spieler": "/mika-schroers/profil/spieler/472246",
-      "Marktwert": "750 Tsd.",
-      "Aktueller Verein": "Alemannia Aachen",
-      "Link aktueller Verein": "/alemannia-aachen/startseite/verein/8",
-      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/8.png?lm=1403603100",
-      "Potenzieller Verein": "1.FC Nürnberg",
-      "Link potenzieller Verein": "/1-fc-nurnberg/startseite/verein/4",
-      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/4.png?lm=1525459914",
-      "Wahrscheinlichkeit": "66",
-      "Letzter Stand": "01.08.2026 09:21"
     },
     {
       "Spieler": "Jeremy Arévalo",
@@ -381,20 +423,6 @@
       "Letzter Stand": "01.08.2026 00:08"
     },
     {
-      "Spieler": "Elias Baum",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/744857-1722953003.jpg?lm=1",
-      "Link Spieler": "/elias-baum/profil/spieler/744857",
-      "Marktwert": "4,00 Mio.",
-      "Aktueller Verein": "Eintracht Frankfurt",
-      "Link aktueller Verein": "/eintracht-frankfurt/startseite/verein/24",
-      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/24.png?lm=1700074979",
-      "Potenzieller Verein": "Borussia Dortmund",
-      "Link potenzieller Verein": "/borussia-dortmund/startseite/verein/16",
-      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/16.png?lm=1396275280",
-      "Wahrscheinlichkeit": "28",
-      "Letzter Stand": "31.07.2026 22:11"
-    },
-    {
       "Spieler": "George Ilenikhena",
       "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/1004834-1702545922.jpg?lm=1",
       "Link Spieler": "/george-ilenikhena/profil/spieler/1004834",
@@ -447,7 +475,7 @@
       "Potenzieller Verein": "Newcastle United",
       "Link potenzieller Verein": "/newcastle-united/startseite/verein/762",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/762.png?lm=1472921161",
-      "Wahrscheinlichkeit": "62",
+      "Wahrscheinlichkeit": "71",
       "Letzter Stand": "31.07.2026 20:44"
     },
     {
@@ -475,7 +503,7 @@
       "Potenzieller Verein": "RB Leipzig",
       "Link potenzieller Verein": "/rb-leipzig/startseite/verein/23826",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/23826.png?lm=1619431624",
-      "Wahrscheinlichkeit": "38",
+      "Wahrscheinlichkeit": "36",
       "Letzter Stand": "31.07.2026 19:36"
     },
     {
@@ -517,7 +545,7 @@
       "Potenzieller Verein": "TSG 1899 Hoffenheim",
       "Link potenzieller Verein": "/tsg-1899-hoffenheim/startseite/verein/533",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/533.png?lm=1675591766",
-      "Wahrscheinlichkeit": "72",
+      "Wahrscheinlichkeit": "73",
       "Letzter Stand": "31.07.2026 18:18"
     },
     {
@@ -531,7 +559,7 @@
       "Potenzieller Verein": "1.FC Köln",
       "Link potenzieller Verein": "/1-fc-koln/startseite/verein/3",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/3.png?lm=1656580823",
-      "Wahrscheinlichkeit": "45",
+      "Wahrscheinlichkeit": "44",
       "Letzter Stand": "31.07.2026 18:16"
     },
     {
@@ -601,7 +629,7 @@
       "Potenzieller Verein": "Juventus Turin",
       "Link potenzieller Verein": "/juventus-turin/startseite/verein/506",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/506.png?lm=1626441487",
-      "Wahrscheinlichkeit": "18",
+      "Wahrscheinlichkeit": "16",
       "Letzter Stand": "31.07.2026 15:59"
     },
     {
@@ -703,20 +731,6 @@
       "Letzter Stand": "31.07.2026 11:34"
     },
     {
-      "Spieler": "Ørjan Nyland",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/73517-1779430891.jpg?lm=1",
-      "Link Spieler": "/orjan-nyland/profil/spieler/73517",
-      "Marktwert": "800 Tsd.",
-      "Aktueller Verein": "Vereinslos",
-      "Link aktueller Verein": "/vereinslos/startseite/verein/515",
-      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/515.png?lm=1456997255",
-      "Potenzieller Verein": "RB Leipzig",
-      "Link potenzieller Verein": "/rb-leipzig/startseite/verein/23826",
-      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/23826.png?lm=1619431624",
-      "Wahrscheinlichkeit": "67",
-      "Letzter Stand": "31.07.2026 11:15"
-    },
-    {
       "Spieler": "Junior Dina Ebimbe",
       "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/536482-1663065378.jpg?lm=1",
       "Link Spieler": "/junior-dina-ebimbe/profil/spieler/536482",
@@ -727,7 +741,7 @@
       "Potenzieller Verein": "FC Schalke 04",
       "Link potenzieller Verein": "/fc-schalke-04/startseite/verein/33",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/33.png?lm=1656580846",
-      "Wahrscheinlichkeit": "54",
+      "Wahrscheinlichkeit": "53",
       "Letzter Stand": "31.07.2026 11:06"
     },
     {
@@ -1021,7 +1035,7 @@
       "Potenzieller Verein": "FC Barcelona",
       "Link potenzieller Verein": "/fc-barcelona/startseite/verein/131",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/131.png?lm=1406739548",
-      "Wahrscheinlichkeit": "56",
+      "Wahrscheinlichkeit": "61",
       "Letzter Stand": "30.07.2026 16:53"
     },
     {
@@ -1119,7 +1133,7 @@
       "Potenzieller Verein": "AC Mailand",
       "Link potenzieller Verein": "/ac-mailand/startseite/verein/5",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/5.png?lm=1605166627",
-      "Wahrscheinlichkeit": "25",
+      "Wahrscheinlichkeit": "26",
       "Letzter Stand": "30.07.2026 11:13"
     },
     {
@@ -1805,7 +1819,7 @@
       "Potenzieller Verein": "1.FSV Mainz 05",
       "Link potenzieller Verein": "/1-fsv-mainz-05/startseite/verein/39",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/39.png?lm=1564748880",
-      "Wahrscheinlichkeit": "48",
+      "Wahrscheinlichkeit": "47",
       "Letzter Stand": "27.07.2026 22:29"
     },
     {
@@ -1847,7 +1861,7 @@
       "Potenzieller Verein": "FC Schalke 04",
       "Link potenzieller Verein": "/fc-schalke-04/startseite/verein/33",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/33.png?lm=1656580846",
-      "Wahrscheinlichkeit": "33",
+      "Wahrscheinlichkeit": "35",
       "Letzter Stand": "27.07.2026 20:27"
     },
     {
@@ -1931,7 +1945,7 @@
       "Potenzieller Verein": "Eintracht Frankfurt",
       "Link potenzieller Verein": "/eintracht-frankfurt/startseite/verein/24",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/24.png?lm=1700074979",
-      "Wahrscheinlichkeit": "32",
+      "Wahrscheinlichkeit": "30",
       "Letzter Stand": "27.07.2026 18:24"
     },
     {
@@ -1945,7 +1959,7 @@
       "Potenzieller Verein": "SC Paderborn 07",
       "Link potenzieller Verein": "/sc-paderborn-07/startseite/verein/127",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/127.png?lm=1532010365",
-      "Wahrscheinlichkeit": "53",
+      "Wahrscheinlichkeit": "54",
       "Letzter Stand": "27.07.2026 16:43"
     },
     {
@@ -1973,7 +1987,7 @@
       "Potenzieller Verein": "Hannover 96",
       "Link potenzieller Verein": "/hannover-96/startseite/verein/42",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/42.png?lm=1625590625",
-      "Wahrscheinlichkeit": "30",
+      "Wahrscheinlichkeit": "29",
       "Letzter Stand": "27.07.2026 16:04"
     },
     {
@@ -2015,7 +2029,7 @@
       "Potenzieller Verein": "Hannover 96",
       "Link potenzieller Verein": "/hannover-96/startseite/verein/42",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/42.png?lm=1625590625",
-      "Wahrscheinlichkeit": "28",
+      "Wahrscheinlichkeit": "31",
       "Letzter Stand": "27.07.2026 12:35"
     },
     {
@@ -2575,7 +2589,7 @@
       "Potenzieller Verein": "Benfica Lissabon",
       "Link potenzieller Verein": "/benfica-lissabon/startseite/verein/294",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/294.png?lm=1535908439",
-      "Wahrscheinlichkeit": "62",
+      "Wahrscheinlichkeit": "65",
       "Letzter Stand": "23.07.2026 20:14"
     },
     {
@@ -2589,7 +2603,7 @@
       "Potenzieller Verein": "Sporting Lissabon",
       "Link potenzieller Verein": "/sporting-lissabon/startseite/verein/336",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/336.png?lm=1782916828",
-      "Wahrscheinlichkeit": "14",
+      "Wahrscheinlichkeit": "11",
       "Letzter Stand": "23.07.2026 20:14"
     },
     {
@@ -2729,7 +2743,7 @@
       "Potenzieller Verein": "Borussia Mönchengladbach",
       "Link potenzieller Verein": "/borussia-monchengladbach/startseite/verein/18",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/18.png?lm=1656585796",
-      "Wahrscheinlichkeit": "34",
+      "Wahrscheinlichkeit": "36",
       "Letzter Stand": "23.07.2026 17:21"
     },
     {
@@ -2799,7 +2813,7 @@
       "Potenzieller Verein": "FC Liverpool",
       "Link potenzieller Verein": "/fc-liverpool/startseite/verein/31",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/31.png?lm=1727873452",
-      "Wahrscheinlichkeit": "38",
+      "Wahrscheinlichkeit": "34",
       "Letzter Stand": "23.07.2026 14:11"
     },
     {
@@ -2857,20 +2871,6 @@
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/65.png?lm=1503682935",
       "Wahrscheinlichkeit": "39",
       "Letzter Stand": "23.07.2026 11:54"
-    },
-    {
-      "Spieler": "Exequiel Palacios",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/401578-1695368200.jpg?lm=1",
-      "Link Spieler": "/exequiel-palacios/profil/spieler/401578",
-      "Marktwert": "25,00 Mio.",
-      "Aktueller Verein": "Bayer 04 Leverkusen",
-      "Link aktueller Verein": "/bayer-04-leverkusen/startseite/verein/15",
-      "Wappen aktueller Verein": "https://tmssl.akamaized.net//images/wappen/medium/15.png?lm=1710156317",
-      "Potenzieller Verein": "RB Leipzig",
-      "Link potenzieller Verein": "/rb-leipzig/startseite/verein/23826",
-      "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/23826.png?lm=1619431624",
-      "Wahrscheinlichkeit": "20",
-      "Letzter Stand": "23.07.2026 11:35"
     },
     {
       "Spieler": "Christopher Olivier",
@@ -2981,7 +2981,7 @@
       "Potenzieller Verein": "FC Bayern München",
       "Link potenzieller Verein": "/fc-bayern-munchen/startseite/verein/27",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1729503608",
-      "Wahrscheinlichkeit": "30",
+      "Wahrscheinlichkeit": "31",
       "Letzter Stand": "23.07.2026 09:50"
     },
     {
@@ -3051,7 +3051,7 @@
       "Potenzieller Verein": "Hannover 96",
       "Link potenzieller Verein": "/hannover-96/startseite/verein/42",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/42.png?lm=1625590625",
-      "Wahrscheinlichkeit": "22",
+      "Wahrscheinlichkeit": "19",
       "Letzter Stand": "22.07.2026 21:45"
     },
     {
@@ -3079,7 +3079,7 @@
       "Potenzieller Verein": "1.FC Köln",
       "Link potenzieller Verein": "/1-fc-koln/startseite/verein/3",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/3.png?lm=1656580823",
-      "Wahrscheinlichkeit": "31",
+      "Wahrscheinlichkeit": "30",
       "Letzter Stand": "22.07.2026 21:31"
     },
     {
@@ -3415,7 +3415,7 @@
       "Potenzieller Verein": "Borussia Dortmund",
       "Link potenzieller Verein": "/borussia-dortmund/startseite/verein/16",
       "Wappen potenzieller Verein": "https://tmssl.akamaized.net//images/wappen/medium/16.png?lm=1396275280",
-      "Wahrscheinlichkeit": "33",
+      "Wahrscheinlichkeit": "29",
       "Letzter Stand": "21.07.2026 13:02"
     }
   ]
