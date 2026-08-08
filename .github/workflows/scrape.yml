@@ -1,9 +1,9 @@
 name: Transfermarkt Scraper
 
 on:
-  schedule:
+#  schedule:
     # Alle 4 Stunden (UTC!)
-    - cron: "0 */4 * * *"
+#    - cron: "0 */4 * * *"
   workflow_dispatch: {}   # manuelles Auslösen über den "Run workflow"-Button
 
 permissions:
