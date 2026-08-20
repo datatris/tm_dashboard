@@ -1,5 +1,5 @@
 {
-  "letzte_aktualisierung": "2026-08-19T21:58:35.570156+00:00",
+  "letzte_aktualisierung": "2026-08-20T04:43:41.405550+00:00",
   "anzahl": 1500,
   "transfers": [
     {
@@ -10836,7 +10836,7 @@
       "Spieler": "Niklas Niehoff",
       "Spielerprofil": "/niklas-niehoff/profil/spieler/806073",
       "Position": "Rechtes Mittelfeld",
-      "Alter": "21",
+      "Alter": "22",
       "Nation": "https://img.a.transfermarkt.technology/flagge/verysmall/40.png?lm=4711",
       "Nation 2": null,
       "Alter Verein": "Holstein Kiel",
@@ -19202,13 +19202,13 @@
       "Alter Verein": "TSV Havelse",
       "Link alter Verein": "/tsv-havelse/startseite/verein/476/saison_id/2026",
       "Wappen alter Verein": "https://img.a.transfermarkt.technology/wappen/tiny/476.png?lm=4711",
-      "Neuer Verein": "Vereinslos",
+      "Neuer Verein": "1.FC Wunstorf",
       "Transferdatum": "12.08.2026",
       "Marktwert": "-",
-      "Ablöse": "-",
-      "Link neuer Verein": "https://www.transfermarkt.de/vereinslos/startseite/verein/515",
-      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/515.png",
-      "NeuerVereinId": "515",
+      "Ablöse": "ablösefrei",
+      "Link neuer Verein": "https://www.transfermarkt.de/1-fc-wunstorf/startseite/verein/477",
+      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/477.png",
+      "NeuerVereinId": "477",
       "AlterVereinsId": null
     },
     {
