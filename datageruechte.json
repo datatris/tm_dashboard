@@ -1,7 +1,35 @@
 {
-  "letzte_aktualisierung": "2026-08-22T20:20:53.270221+00:00",
+  "letzte_aktualisierung": "2026-08-22T22:00:46.234072+00:00",
   "anzahl": 201,
   "geruechte": [
+    {
+      "Spieler": "Mikey Moore",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/1011147-1716493553.jpg?lm=4711",
+      "Link Spieler": "/mikey-moore/profil/spieler/1011147",
+      "Marktwert": "18,00 Mio.",
+      "Aktueller Verein": "Tottenham Hotspur",
+      "Link aktueller Verein": "/tottenham-hotspur/startseite/verein/148",
+      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/148.png?lm=4711",
+      "Potenzieller Verein": "1.FC Köln",
+      "Link potenzieller Verein": "/1-fc-koln/startseite/verein/3",
+      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/3.png?lm=4711",
+      "Wahrscheinlichkeit": "72",
+      "Letzter Stand": "22.08.2026 23:54"
+    },
+    {
+      "Spieler": "Atakan Karazor",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/232320-1753307846.jpg?lm=4711",
+      "Link Spieler": "/atakan-karazor/profil/spieler/232320",
+      "Marktwert": "8,00 Mio.",
+      "Aktueller Verein": "VfB Stuttgart",
+      "Link aktueller Verein": "/vfb-stuttgart/startseite/verein/79",
+      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/79.png?lm=4711",
+      "Potenzieller Verein": "Trabzonspor",
+      "Link potenzieller Verein": "/trabzonspor/startseite/verein/449",
+      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/449.png?lm=1787315768",
+      "Wahrscheinlichkeit": "38",
+      "Letzter Stand": "22.08.2026 23:31"
+    },
     {
       "Spieler": "Leon Jensen",
       "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/273904-1657894821.jpg?lm=4711",
@@ -13,8 +41,8 @@
       "Potenzieller Verein": "1.FC Magdeburg",
       "Link potenzieller Verein": "/1-fc-magdeburg/startseite/verein/187",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/187.png?lm=4711",
-      "Wahrscheinlichkeit": "40",
-      "Letzter Stand": "22.08.2026 21:52"
+      "Wahrscheinlichkeit": "43",
+      "Letzter Stand": "22.08.2026 22:46"
     },
     {
       "Spieler": "Kamil Grabara",
@@ -27,7 +55,7 @@
       "Potenzieller Verein": "Juventus Turin",
       "Link potenzieller Verein": "/juventus-turin/startseite/verein/506",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/506.png?lm=4711",
-      "Wahrscheinlichkeit": "77",
+      "Wahrscheinlichkeit": "79",
       "Letzter Stand": "22.08.2026 21:49"
     },
     {
@@ -41,7 +69,7 @@
       "Potenzieller Verein": "FC Bayern München",
       "Link potenzieller Verein": "/fc-bayern-munchen/startseite/verein/27",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/27.png?lm=4711",
-      "Wahrscheinlichkeit": "24",
+      "Wahrscheinlichkeit": "23",
       "Letzter Stand": "22.08.2026 21:34"
     },
     {
@@ -83,7 +111,7 @@
       "Potenzieller Verein": "Deportivo A Coruña",
       "Link potenzieller Verein": "/deportivo-a-coruna/startseite/verein/897",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/897.png?lm=4711",
-      "Wahrscheinlichkeit": "53",
+      "Wahrscheinlichkeit": "54",
       "Letzter Stand": "22.08.2026 21:14"
     },
     {
@@ -97,7 +125,7 @@
       "Potenzieller Verein": "Eintracht Frankfurt",
       "Link potenzieller Verein": "/eintracht-frankfurt/startseite/verein/24",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/24.png?lm=4711",
-      "Wahrscheinlichkeit": null,
+      "Wahrscheinlichkeit": "32",
       "Letzter Stand": "22.08.2026 21:10"
     },
     {
@@ -113,20 +141,6 @@
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/399.png?lm=4711",
       "Wahrscheinlichkeit": "53",
       "Letzter Stand": "22.08.2026 20:22"
-    },
-    {
-      "Spieler": "Mikey Moore",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/1011147-1716493553.jpg?lm=4711",
-      "Link Spieler": "/mikey-moore/profil/spieler/1011147",
-      "Marktwert": "18,00 Mio.",
-      "Aktueller Verein": "Tottenham Hotspur",
-      "Link aktueller Verein": "/tottenham-hotspur/startseite/verein/148",
-      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/148.png?lm=4711",
-      "Potenzieller Verein": "1.FC Köln",
-      "Link potenzieller Verein": "/1-fc-koln/startseite/verein/3",
-      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/3.png?lm=4711",
-      "Wahrscheinlichkeit": "71",
-      "Letzter Stand": "22.08.2026 20:03"
     },
     {
       "Spieler": "Serhou Guirassy",
@@ -153,7 +167,7 @@
       "Potenzieller Verein": "1.FC Nürnberg",
       "Link potenzieller Verein": "/1-fc-nurnberg/startseite/verein/4",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/4.png?lm=4711",
-      "Wahrscheinlichkeit": "81",
+      "Wahrscheinlichkeit": "82",
       "Letzter Stand": "22.08.2026 19:36"
     },
     {
@@ -167,7 +181,7 @@
       "Potenzieller Verein": "Galatasaray",
       "Link potenzieller Verein": "/galatasaray/startseite/verein/141",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=4711",
-      "Wahrscheinlichkeit": "33",
+      "Wahrscheinlichkeit": "32",
       "Letzter Stand": "22.08.2026 19:05"
     },
     {
@@ -825,7 +839,7 @@
       "Potenzieller Verein": "Bayer 04 Leverkusen",
       "Link potenzieller Verein": "/bayer-04-leverkusen/startseite/verein/15",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/15.png?lm=4711",
-      "Wahrscheinlichkeit": "47",
+      "Wahrscheinlichkeit": "43",
       "Letzter Stand": "21.08.2026 09:26"
     },
     {
@@ -1277,20 +1291,6 @@
       "Letzter Stand": "20.08.2026 08:32"
     },
     {
-      "Spieler": "Atakan Karazor",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/232320-1753307846.jpg?lm=4711",
-      "Link Spieler": "/atakan-karazor/profil/spieler/232320",
-      "Marktwert": "8,00 Mio.",
-      "Aktueller Verein": "VfB Stuttgart",
-      "Link aktueller Verein": "/vfb-stuttgart/startseite/verein/79",
-      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/79.png?lm=4711",
-      "Potenzieller Verein": "Trabzonspor",
-      "Link potenzieller Verein": "/trabzonspor/startseite/verein/449",
-      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/449.png?lm=1787315768",
-      "Wahrscheinlichkeit": "38",
-      "Letzter Stand": "20.08.2026 01:16"
-    },
-    {
       "Spieler": "Jarell Quansah",
       "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/632349-1758704191.jpg?lm=4711",
       "Link Spieler": "/jarell-quansah/profil/spieler/632349",
@@ -1567,7 +1567,7 @@
       "Potenzieller Verein": "Bayer 04 Leverkusen",
       "Link potenzieller Verein": "/bayer-04-leverkusen/startseite/verein/15",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/15.png?lm=4711",
-      "Wahrscheinlichkeit": "52",
+      "Wahrscheinlichkeit": "63",
       "Letzter Stand": "18.08.2026 13:28"
     },
     {
