@@ -1,7 +1,35 @@
 {
-  "letzte_aktualisierung": "2026-08-23T20:22:24.488613+00:00",
+  "letzte_aktualisierung": "2026-08-23T21:55:42.562401+00:00",
   "anzahl": 204,
   "geruechte": [
+    {
+      "Spieler": "Ermedin Demirovic",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/335457-1723707508.jpg?lm=4711",
+      "Link Spieler": "/ermedin-demirovic/profil/spieler/335457",
+      "Marktwert": "22,00 Mio.",
+      "Aktueller Verein": "VfB Stuttgart",
+      "Link aktueller Verein": "/vfb-stuttgart/startseite/verein/79",
+      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/79.png?lm=4711",
+      "Potenzieller Verein": "Galatasaray",
+      "Link potenzieller Verein": "/galatasaray/startseite/verein/141",
+      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=4711",
+      "Wahrscheinlichkeit": "33",
+      "Letzter Stand": "23.08.2026 23:18"
+    },
+    {
+      "Spieler": "Yukinari Sugawara",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/405385-1758702447.jpg?lm=4711",
+      "Link Spieler": "/yukinari-sugawara/profil/spieler/405385",
+      "Marktwert": "5,50 Mio.",
+      "Aktueller Verein": "FC Southampton",
+      "Link aktueller Verein": "/fc-southampton/startseite/verein/180",
+      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/180.png?lm=4711",
+      "Potenzieller Verein": "SV Werder Bremen",
+      "Link potenzieller Verein": "/sv-werder-bremen/startseite/verein/86",
+      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/86.png?lm=4711",
+      "Wahrscheinlichkeit": "40",
+      "Letzter Stand": "23.08.2026 22:24"
+    },
     {
       "Spieler": "Fábio Silva",
       "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/505653-1766483527.jpg?lm=4711",
@@ -55,7 +83,7 @@
       "Potenzieller Verein": "Olympiakos Piräus",
       "Link potenzieller Verein": "/olympiakos-piraus/startseite/verein/683",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/683.png?lm=4711",
-      "Wahrscheinlichkeit": "36",
+      "Wahrscheinlichkeit": "34",
       "Letzter Stand": "23.08.2026 22:13"
     },
     {
@@ -69,22 +97,8 @@
       "Potenzieller Verein": "Leeds United",
       "Link potenzieller Verein": "/leeds-united/startseite/verein/399",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/399.png?lm=4711",
-      "Wahrscheinlichkeit": "54",
+      "Wahrscheinlichkeit": "57",
       "Letzter Stand": "23.08.2026 22:00"
-    },
-    {
-      "Spieler": "Ermedin Demirovic",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/335457-1723707508.jpg?lm=4711",
-      "Link Spieler": "/ermedin-demirovic/profil/spieler/335457",
-      "Marktwert": "22,00 Mio.",
-      "Aktueller Verein": "VfB Stuttgart",
-      "Link aktueller Verein": "/vfb-stuttgart/startseite/verein/79",
-      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/79.png?lm=4711",
-      "Potenzieller Verein": "Galatasaray",
-      "Link potenzieller Verein": "/galatasaray/startseite/verein/141",
-      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=4711",
-      "Wahrscheinlichkeit": "34",
-      "Letzter Stand": "23.08.2026 21:58"
     },
     {
       "Spieler": "Nick Woltemade",
@@ -97,7 +111,7 @@
       "Potenzieller Verein": "RB Leipzig",
       "Link potenzieller Verein": "/rb-leipzig/startseite/verein/23826",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/23826.png?lm=4711",
-      "Wahrscheinlichkeit": "28",
+      "Wahrscheinlichkeit": "29",
       "Letzter Stand": "23.08.2026 21:50"
     },
     {
@@ -115,20 +129,6 @@
       "Letzter Stand": "23.08.2026 21:49"
     },
     {
-      "Spieler": "Yukinari Sugawara",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/405385-1758702447.jpg?lm=4711",
-      "Link Spieler": "/yukinari-sugawara/profil/spieler/405385",
-      "Marktwert": "5,50 Mio.",
-      "Aktueller Verein": "FC Southampton",
-      "Link aktueller Verein": "/fc-southampton/startseite/verein/180",
-      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/180.png?lm=4711",
-      "Potenzieller Verein": "SV Werder Bremen",
-      "Link potenzieller Verein": "/sv-werder-bremen/startseite/verein/86",
-      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/86.png?lm=4711",
-      "Wahrscheinlichkeit": "40",
-      "Letzter Stand": "23.08.2026 21:44"
-    },
-    {
       "Spieler": "Davie Selke",
       "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/178459-1759748059.jpg?lm=4711",
       "Link Spieler": "/davie-selke/profil/spieler/178459",
@@ -139,7 +139,7 @@
       "Potenzieller Verein": "Hannover 96",
       "Link potenzieller Verein": "/hannover-96/startseite/verein/42",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/42.png?lm=4711",
-      "Wahrscheinlichkeit": "52",
+      "Wahrscheinlichkeit": "49",
       "Letzter Stand": "23.08.2026 20:50"
     },
     {
@@ -517,7 +517,7 @@
       "Potenzieller Verein": "1.FC Magdeburg",
       "Link potenzieller Verein": "/1-fc-magdeburg/startseite/verein/187",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/187.png?lm=4711",
-      "Wahrscheinlichkeit": "37",
+      "Wahrscheinlichkeit": "35",
       "Letzter Stand": "23.08.2026 09:55"
     },
     {
