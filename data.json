@@ -1,5 +1,5 @@
 {
-  "letzte_aktualisierung": "2026-08-23T21:55:07.041982+00:00",
+  "letzte_aktualisierung": "2026-08-24T04:51:44.349565+00:00",
   "anzahl": 1500,
   "transfers": [
     {
@@ -9959,7 +9959,7 @@
       "AlterVereinsId": null
     },
     {
-      "Spieler": "Bartosz Bialek",
+      "Spieler": "Bartosz Białek",
       "Spielerprofil": "/bartosz-bialek/profil/spieler/535551",
       "Position": "Mittelstürmer",
       "Alter": "24",
@@ -22065,7 +22065,7 @@
       "Spieler": "Elijah Krahn",
       "Spielerprofil": "/elijah-krahn/profil/spieler/638631",
       "Position": "Defensives Mittelfeld",
-      "Alter": "22",
+      "Alter": "23",
       "Nation": "https://img.a.transfermarkt.technology/flagge/verysmall/40.png?lm=4711",
       "Nation 2": null,
       "Alter Verein": "Saarbrücken",
