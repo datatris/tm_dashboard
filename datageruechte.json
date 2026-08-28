@@ -1,7 +1,77 @@
 {
-  "letzte_aktualisierung": "2026-08-28T02:07:30.468583+00:00",
+  "letzte_aktualisierung": "2026-08-28T04:06:03.362570+00:00",
   "anzahl": 212,
   "geruechte": [
+    {
+      "Spieler": "Fisnik Asllani",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/524290-1755090506.jpg?lm=4711",
+      "Link Spieler": "/fisnik-asllani/profil/spieler/524290",
+      "Marktwert": "35,00 Mio.",
+      "Aktueller Verein": "TSG 1899 Hoffenheim",
+      "Link aktueller Verein": "/tsg-1899-hoffenheim/startseite/verein/533",
+      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/533.png?lm=4711",
+      "Potenzieller Verein": "Galatasaray",
+      "Link potenzieller Verein": "/galatasaray/startseite/verein/141",
+      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=4711",
+      "Wahrscheinlichkeit": "60",
+      "Letzter Stand": "28.08.2026 05:56"
+    },
+    {
+      "Spieler": "Arthur Theate",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/368891-1757597860.jpg?lm=4711",
+      "Link Spieler": "/arthur-theate/profil/spieler/368891",
+      "Marktwert": "17,00 Mio.",
+      "Aktueller Verein": "Eintracht Frankfurt",
+      "Link aktueller Verein": "/eintracht-frankfurt/startseite/verein/24",
+      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/24.png?lm=4711",
+      "Potenzieller Verein": "FC Bologna",
+      "Link potenzieller Verein": "/fc-bologna/startseite/verein/1025",
+      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/1025.png?lm=4711",
+      "Wahrscheinlichkeit": "65",
+      "Letzter Stand": "28.08.2026 05:42"
+    },
+    {
+      "Spieler": "Arthur Theate",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/368891-1757597860.jpg?lm=4711",
+      "Link Spieler": "/arthur-theate/profil/spieler/368891",
+      "Marktwert": "17,00 Mio.",
+      "Aktueller Verein": "Eintracht Frankfurt",
+      "Link aktueller Verein": "/eintracht-frankfurt/startseite/verein/24",
+      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/24.png?lm=4711",
+      "Potenzieller Verein": "Atlético Madrid",
+      "Link potenzieller Verein": "/atletico-madrid/startseite/verein/13",
+      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/13.png?lm=4711",
+      "Wahrscheinlichkeit": null,
+      "Letzter Stand": "28.08.2026 05:35"
+    },
+    {
+      "Spieler": "Leon Jensen",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/273904-1657894821.jpg?lm=4711",
+      "Link Spieler": "/leon-jensen/profil/spieler/273904",
+      "Marktwert": "700 Tsd.",
+      "Aktueller Verein": "Hertha BSC",
+      "Link aktueller Verein": "/hertha-bsc/startseite/verein/44",
+      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/44.png?lm=4711",
+      "Potenzieller Verein": "Rot-Weiss Essen",
+      "Link potenzieller Verein": "/rot-weiss-essen/startseite/verein/56",
+      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/56.png?lm=4711",
+      "Wahrscheinlichkeit": null,
+      "Letzter Stand": "28.08.2026 04:28"
+    },
+    {
+      "Spieler": "Nick Bätzner",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/443855-1786971590.jpg?lm=4711",
+      "Link Spieler": "/nick-batzner/profil/spieler/443855",
+      "Marktwert": "500 Tsd.",
+      "Aktueller Verein": "SC Paderborn 07",
+      "Link aktueller Verein": "/sc-paderborn-07/startseite/verein/127",
+      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/127.png?lm=4711",
+      "Potenzieller Verein": "Rot-Weiss Essen",
+      "Link potenzieller Verein": "/rot-weiss-essen/startseite/verein/56",
+      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/56.png?lm=4711",
+      "Wahrscheinlichkeit": "31",
+      "Letzter Stand": "28.08.2026 04:23"
+    },
     {
       "Spieler": "Felipe Obradovich",
       "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=4711",
@@ -45,20 +115,6 @@
       "Letzter Stand": "28.08.2026 01:18"
     },
     {
-      "Spieler": "Arthur Theate",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/368891-1757597860.jpg?lm=4711",
-      "Link Spieler": "/arthur-theate/profil/spieler/368891",
-      "Marktwert": "17,00 Mio.",
-      "Aktueller Verein": "Eintracht Frankfurt",
-      "Link aktueller Verein": "/eintracht-frankfurt/startseite/verein/24",
-      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/24.png?lm=4711",
-      "Potenzieller Verein": "FC Bologna",
-      "Link potenzieller Verein": "/fc-bologna/startseite/verein/1025",
-      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/1025.png?lm=4711",
-      "Wahrscheinlichkeit": "65",
-      "Letzter Stand": "28.08.2026 00:19"
-    },
-    {
       "Spieler": "Bilal El Khannouss",
       "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/654982-1787316660.jpg?lm=4711",
       "Link Spieler": "/bilal-el-khannouss/profil/spieler/654982",
@@ -83,7 +139,7 @@
       "Potenzieller Verein": "Leeds United",
       "Link potenzieller Verein": "/leeds-united/startseite/verein/399",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/399.png?lm=4711",
-      "Wahrscheinlichkeit": "60",
+      "Wahrscheinlichkeit": "62",
       "Letzter Stand": "28.08.2026 00:10"
     },
     {
@@ -125,7 +181,7 @@
       "Potenzieller Verein": "FC Hansa Rostock",
       "Link potenzieller Verein": "/fc-hansa-rostock/startseite/verein/30",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/30.png?lm=4711",
-      "Wahrscheinlichkeit": "60",
+      "Wahrscheinlichkeit": "55",
       "Letzter Stand": "27.08.2026 23:26"
     },
     {
@@ -279,7 +335,7 @@
       "Potenzieller Verein": "LASK",
       "Link potenzieller Verein": "/lask/startseite/verein/413",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/413.png?lm=4711",
-      "Wahrscheinlichkeit": "21",
+      "Wahrscheinlichkeit": "20",
       "Letzter Stand": "27.08.2026 19:04"
     },
     {
@@ -311,20 +367,6 @@
       "Letzter Stand": "27.08.2026 18:29"
     },
     {
-      "Spieler": "Nick Bätzner",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/443855-1786971590.jpg?lm=4711",
-      "Link Spieler": "/nick-batzner/profil/spieler/443855",
-      "Marktwert": "500 Tsd.",
-      "Aktueller Verein": "SC Paderborn 07",
-      "Link aktueller Verein": "/sc-paderborn-07/startseite/verein/127",
-      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/127.png?lm=4711",
-      "Potenzieller Verein": "Rot-Weiss Essen",
-      "Link potenzieller Verein": "/rot-weiss-essen/startseite/verein/56",
-      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/56.png?lm=4711",
-      "Wahrscheinlichkeit": "34",
-      "Letzter Stand": "27.08.2026 18:26"
-    },
-    {
       "Spieler": "Jeanuël Belocian",
       "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/919515-1727378177.jpg?lm=4711",
       "Link Spieler": "/jeanuel-belocian/profil/spieler/919515",
@@ -349,22 +391,8 @@
       "Potenzieller Verein": "VfL Bochum",
       "Link potenzieller Verein": "/vfl-bochum/startseite/verein/80",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/80.png?lm=4711",
-      "Wahrscheinlichkeit": "63",
+      "Wahrscheinlichkeit": "60",
       "Letzter Stand": "27.08.2026 18:22"
-    },
-    {
-      "Spieler": "Arthur Theate",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/368891-1757597860.jpg?lm=4711",
-      "Link Spieler": "/arthur-theate/profil/spieler/368891",
-      "Marktwert": "17,00 Mio.",
-      "Aktueller Verein": "Eintracht Frankfurt",
-      "Link aktueller Verein": "/eintracht-frankfurt/startseite/verein/24",
-      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/24.png?lm=4711",
-      "Potenzieller Verein": "Atlético Madrid",
-      "Link potenzieller Verein": "/atletico-madrid/startseite/verein/13",
-      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/13.png?lm=4711",
-      "Wahrscheinlichkeit": null,
-      "Letzter Stand": "27.08.2026 18:16"
     },
     {
       "Spieler": "Mikey Moore",
@@ -505,20 +533,6 @@
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/24.png?lm=4711",
       "Wahrscheinlichkeit": "18",
       "Letzter Stand": "27.08.2026 16:55"
-    },
-    {
-      "Spieler": "Fisnik Asllani",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/524290-1755090506.jpg?lm=4711",
-      "Link Spieler": "/fisnik-asllani/profil/spieler/524290",
-      "Marktwert": "35,00 Mio.",
-      "Aktueller Verein": "TSG 1899 Hoffenheim",
-      "Link aktueller Verein": "/tsg-1899-hoffenheim/startseite/verein/533",
-      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/533.png?lm=4711",
-      "Potenzieller Verein": "Galatasaray",
-      "Link potenzieller Verein": "/galatasaray/startseite/verein/141",
-      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=4711",
-      "Wahrscheinlichkeit": "65",
-      "Letzter Stand": "27.08.2026 16:46"
     },
     {
       "Spieler": "Kiliann Sildillia",
@@ -2954,20 +2968,6 @@
       "Link potenzieller Verein": "/borussia-monchengladbach/startseite/verein/18",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/18.png?lm=4711",
       "Wahrscheinlichkeit": "35",
-      "Letzter Stand": "16.08.2026 20:54"
-    },
-    {
-      "Spieler": "Nahuel Herrera",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/1116154-1721247968.jpg?lm=4711",
-      "Link Spieler": "/nahuel-herrera/profil/spieler/1116154",
-      "Marktwert": "3,50 Mio.",
-      "Aktueller Verein": "CA Peñarol",
-      "Link aktueller Verein": "/ca-penarol/startseite/verein/861",
-      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/861.png?lm=4711",
-      "Potenzieller Verein": "Borussia Mönchengladbach",
-      "Link potenzieller Verein": "/borussia-monchengladbach/startseite/verein/18",
-      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/18.png?lm=4711",
-      "Wahrscheinlichkeit": "21",
       "Letzter Stand": "16.08.2026 20:54"
     }
   ]
