@@ -1,7 +1,21 @@
 {
-  "letzte_aktualisierung": "2026-08-29T02:43:59.598475+00:00",
+  "letzte_aktualisierung": "2026-08-29T03:24:50.814601+00:00",
   "anzahl": 208,
   "geruechte": [
+    {
+      "Spieler": "Fábio Vieira",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/537598-1758188654.jpg?lm=4711",
+      "Link Spieler": "/fabio-vieira/profil/spieler/537598",
+      "Marktwert": "18,00 Mio.",
+      "Aktueller Verein": "FC Arsenal",
+      "Link aktueller Verein": "/fc-arsenal/startseite/verein/11",
+      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/11.png?lm=4711",
+      "Potenzieller Verein": "Hamburger SV",
+      "Link potenzieller Verein": "/hamburger-sv/startseite/verein/41",
+      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/41.png?lm=4711",
+      "Wahrscheinlichkeit": "58",
+      "Letzter Stand": "29.08.2026 04:52"
+    },
     {
       "Spieler": "Samuel Mbangula",
       "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/654991-1786958005.jpg?lm=4711",
@@ -43,20 +57,6 @@
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/60.png?lm=4711",
       "Wahrscheinlichkeit": "60",
       "Letzter Stand": "29.08.2026 01:41"
-    },
-    {
-      "Spieler": "Fábio Vieira",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/537598-1758188654.jpg?lm=4711",
-      "Link Spieler": "/fabio-vieira/profil/spieler/537598",
-      "Marktwert": "18,00 Mio.",
-      "Aktueller Verein": "FC Arsenal",
-      "Link aktueller Verein": "/fc-arsenal/startseite/verein/11",
-      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/11.png?lm=4711",
-      "Potenzieller Verein": "Hamburger SV",
-      "Link potenzieller Verein": "/hamburger-sv/startseite/verein/41",
-      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/41.png?lm=4711",
-      "Wahrscheinlichkeit": "58",
-      "Letzter Stand": "29.08.2026 01:16"
     },
     {
       "Spieler": "Mohamed Amoura",
@@ -1567,7 +1567,7 @@
       "Potenzieller Verein": "FC Bayern München",
       "Link potenzieller Verein": "/fc-bayern-munchen/startseite/verein/27",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/27.png?lm=4711",
-      "Wahrscheinlichkeit": "37",
+      "Wahrscheinlichkeit": "33",
       "Letzter Stand": "26.08.2026 11:05"
     },
     {
@@ -2379,7 +2379,7 @@
       "Potenzieller Verein": "Bayer 04 Leverkusen",
       "Link potenzieller Verein": "/bayer-04-leverkusen/startseite/verein/15",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/15.png?lm=4711",
-      "Wahrscheinlichkeit": "43",
+      "Wahrscheinlichkeit": "48",
       "Letzter Stand": "21.08.2026 09:26"
     },
     {
