@@ -1,5 +1,5 @@
 {
-  "letzte_aktualisierung": "2026-08-30T20:30:26.950884+00:00",
+  "letzte_aktualisierung": "2026-08-30T22:28:21.082654+00:00",
   "anzahl": 1500,
   "transfers": [
     {
@@ -269,25 +269,6 @@
       "AlterVereinsId": null
     },
     {
-      "Spieler": "Ernest Poku",
-      "Spielerprofil": "/ernest-poku/profil/spieler/718303",
-      "Position": "Rechtsaußen",
-      "Alter": "22",
-      "Nation": "https://img.a.transfermarkt.technology/flagge/verysmall/122.png?lm=4711",
-      "Nation 2": "https://img.a.transfermarkt.technology/flagge/verysmall/54.png?lm=4711",
-      "Alter Verein": "B. Leverkusen",
-      "Link alter Verein": "/bayer-04-leverkusen/startseite/verein/15/saison_id/2026",
-      "Wappen alter Verein": "https://img.a.transfermarkt.technology/wappen/tiny/15.png?lm=4711",
-      "Neuer Verein": "Besiktas",
-      "Transferdatum": "27.08.2026",
-      "Marktwert": "25,00 Mio. €",
-      "Ablöse": "Leihgebühr:3,00 Mio. €",
-      "Link neuer Verein": "https://www.transfermarkt.de/besiktas-istanbul/startseite/verein/114",
-      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/114.png",
-      "NeuerVereinId": "114",
-      "AlterVereinsId": null
-    },
-    {
       "Spieler": "Young-woo Seol",
       "Spielerprofil": "/young-woo-seol/profil/spieler/639414",
       "Position": "Rechter Verteidiger",
@@ -342,6 +323,25 @@
       "Link neuer Verein": "https://www.transfermarkt.de/fsv-63-luckenwalde/startseite/verein/5761",
       "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/5761.png",
       "NeuerVereinId": "5761",
+      "AlterVereinsId": null
+    },
+    {
+      "Spieler": "Ernest Poku",
+      "Spielerprofil": "/ernest-poku/profil/spieler/718303",
+      "Position": "Rechtsaußen",
+      "Alter": "22",
+      "Nation": "https://img.a.transfermarkt.technology/flagge/verysmall/122.png?lm=4711",
+      "Nation 2": "https://img.a.transfermarkt.technology/flagge/verysmall/54.png?lm=4711",
+      "Alter Verein": "B. Leverkusen",
+      "Link alter Verein": "/bayer-04-leverkusen/startseite/verein/15/saison_id/2026",
+      "Wappen alter Verein": "https://img.a.transfermarkt.technology/wappen/tiny/15.png?lm=4711",
+      "Neuer Verein": "Besiktas",
+      "Transferdatum": "26.08.2026",
+      "Marktwert": "25,00 Mio. €",
+      "Ablöse": "Leihgebühr:3,00 Mio. €",
+      "Link neuer Verein": "https://www.transfermarkt.de/besiktas-istanbul/startseite/verein/114",
+      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/114.png",
+      "NeuerVereinId": "114",
       "AlterVereinsId": null
     },
     {
@@ -1821,9 +1821,9 @@
       "Transferdatum": "27.07.2026",
       "Marktwert": "400 Tsd. €",
       "Ablöse": "ablösefrei",
-      "Link neuer Verein": "https://www.transfermarkt.de/wurzburger-kickers/startseite/verein/1557",
-      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/1557.png",
-      "NeuerVereinId": "1557",
+      "Link neuer Verein": null,
+      "Wappen neuer Verein": null,
+      "NeuerVereinId": null,
       "AlterVereinsId": null
     },
     {
@@ -3265,9 +3265,9 @@
       "Transferdatum": "02.07.2026",
       "Marktwert": "400 Tsd. €",
       "Ablöse": "100 Tsd. €",
-      "Link neuer Verein": "https://www.transfermarkt.de/vfb-stuttgart-ii/startseite/verein/102",
-      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/102.png",
-      "NeuerVereinId": "102",
+      "Link neuer Verein": null,
+      "Wappen neuer Verein": null,
+      "NeuerVereinId": null,
       "AlterVereinsId": null
     },
     {
@@ -11435,9 +11435,9 @@
       "Transferdatum": "21.07.2026",
       "Marktwert": "400 Tsd. €",
       "Ablöse": "Leihgebühr:25 Tsd. €",
-      "Link neuer Verein": "https://www.transfermarkt.de/wurzburger-kickers/startseite/verein/1557",
-      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/1557.png",
-      "NeuerVereinId": "1557",
+      "Link neuer Verein": null,
+      "Wappen neuer Verein": null,
+      "NeuerVereinId": null,
       "AlterVereinsId": null
     },
     {
@@ -11663,9 +11663,9 @@
       "Transferdatum": "17.07.2026",
       "Marktwert": "200 Tsd. €",
       "Ablöse": "Leihe",
-      "Link neuer Verein": "https://www.transfermarkt.de/wurzburger-kickers/startseite/verein/1557",
-      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/1557.png",
-      "NeuerVereinId": "1557",
+      "Link neuer Verein": null,
+      "Wappen neuer Verein": null,
+      "NeuerVereinId": null,
       "AlterVereinsId": null
     },
     {
@@ -13677,9 +13677,9 @@
       "Transferdatum": "01.07.2026",
       "Marktwert": "150 Tsd. €",
       "Ablöse": "ablösefrei",
-      "Link neuer Verein": "https://www.transfermarkt.de/wurzburger-kickers/startseite/verein/1557",
-      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/1557.png",
-      "NeuerVereinId": "1557",
+      "Link neuer Verein": null,
+      "Wappen neuer Verein": null,
+      "NeuerVereinId": null,
       "AlterVereinsId": null
     },
     {
@@ -19434,9 +19434,9 @@
       "Transferdatum": "18.08.2026",
       "Marktwert": "350 Tsd. €",
       "Ablöse": "ablösefrei",
-      "Link neuer Verein": "https://www.transfermarkt.de/st-johnstone-fc/startseite/verein/2578",
-      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/2578.png",
-      "NeuerVereinId": "2578",
+      "Link neuer Verein": null,
+      "Wappen neuer Verein": null,
+      "NeuerVereinId": null,
       "AlterVereinsId": null
     },
     {
@@ -19453,9 +19453,9 @@
       "Transferdatum": "17.08.2026",
       "Marktwert": "200 Tsd. €",
       "Ablöse": "Leihe",
-      "Link neuer Verein": "https://www.transfermarkt.de/sg-sonnenhof-grossaspach/startseite/verein/2589",
-      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/2589.png",
-      "NeuerVereinId": "2589",
+      "Link neuer Verein": null,
+      "Wappen neuer Verein": null,
+      "NeuerVereinId": null,
       "AlterVereinsId": null
     },
     {
@@ -20118,9 +20118,9 @@
       "Transferdatum": "27.07.2026",
       "Marktwert": "400 Tsd. €",
       "Ablöse": "ablösefrei",
-      "Link neuer Verein": "https://www.transfermarkt.de/wurzburger-kickers/startseite/verein/1557",
-      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/1557.png",
-      "NeuerVereinId": "1557",
+      "Link neuer Verein": null,
+      "Wappen neuer Verein": null,
+      "NeuerVereinId": null,
       "AlterVereinsId": null
     },
     {
@@ -20384,9 +20384,9 @@
       "Transferdatum": "21.07.2026",
       "Marktwert": "400 Tsd. €",
       "Ablöse": "Leihgebühr:25 Tsd. €",
-      "Link neuer Verein": "https://www.transfermarkt.de/wurzburger-kickers/startseite/verein/1557",
-      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/1557.png",
-      "NeuerVereinId": "1557",
+      "Link neuer Verein": null,
+      "Wappen neuer Verein": null,
+      "NeuerVereinId": null,
       "AlterVereinsId": null
     },
     {
@@ -20479,9 +20479,9 @@
       "Transferdatum": "20.07.2026",
       "Marktwert": "1,00 Mio. €",
       "Ablöse": "ablösefrei",
-      "Link neuer Verein": "https://www.transfermarkt.de/sg-sonnenhof-grossaspach/startseite/verein/2589",
-      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/2589.png",
-      "NeuerVereinId": "2589",
+      "Link neuer Verein": null,
+      "Wappen neuer Verein": null,
+      "NeuerVereinId": null,
       "AlterVereinsId": null
     },
     {
@@ -20574,9 +20574,9 @@
       "Transferdatum": "17.07.2026",
       "Marktwert": "200 Tsd. €",
       "Ablöse": "Leihe",
-      "Link neuer Verein": "https://www.transfermarkt.de/wurzburger-kickers/startseite/verein/1557",
-      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/1557.png",
-      "NeuerVereinId": "1557",
+      "Link neuer Verein": null,
+      "Wappen neuer Verein": null,
+      "NeuerVereinId": null,
       "AlterVereinsId": null
     },
     {
@@ -20897,9 +20897,9 @@
       "Transferdatum": "11.07.2026",
       "Marktwert": "150 Tsd. €",
       "Ablöse": "ablösefrei",
-      "Link neuer Verein": "https://www.transfermarkt.de/wurzburger-kickers/startseite/verein/1557",
-      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/1557.png",
-      "NeuerVereinId": "1557",
+      "Link neuer Verein": null,
+      "Wappen neuer Verein": null,
+      "NeuerVereinId": null,
       "AlterVereinsId": null
     },
     {
@@ -21220,9 +21220,9 @@
       "Transferdatum": "07.07.2026",
       "Marktwert": "150 Tsd. €",
       "Ablöse": "?",
-      "Link neuer Verein": "https://www.transfermarkt.de/wurzburger-kickers/startseite/verein/1557",
-      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/1557.png",
-      "NeuerVereinId": "1557",
+      "Link neuer Verein": null,
+      "Wappen neuer Verein": null,
+      "NeuerVereinId": null,
       "AlterVereinsId": null
     },
     {
@@ -21714,9 +21714,9 @@
       "Transferdatum": "03.07.2026",
       "Marktwert": "200 Tsd. €",
       "Ablöse": "?",
-      "Link neuer Verein": "https://www.transfermarkt.de/sc-uniao-torreense/startseite/verein/2432",
-      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/2432.png",
-      "NeuerVereinId": "2432",
+      "Link neuer Verein": null,
+      "Wappen neuer Verein": null,
+      "NeuerVereinId": null,
       "AlterVereinsId": null
     },
     {
@@ -21828,9 +21828,9 @@
       "Transferdatum": "02.07.2026",
       "Marktwert": "400 Tsd. €",
       "Ablöse": "100 Tsd. €",
-      "Link neuer Verein": "https://www.transfermarkt.de/vfb-stuttgart-ii/startseite/verein/102",
-      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/102.png",
-      "NeuerVereinId": "102",
+      "Link neuer Verein": null,
+      "Wappen neuer Verein": null,
+      "NeuerVereinId": null,
       "AlterVereinsId": null
     },
     {
@@ -21923,9 +21923,9 @@
       "Transferdatum": "01.07.2026",
       "Marktwert": "200 Tsd. €",
       "Ablöse": "-",
-      "Link neuer Verein": "https://www.transfermarkt.de/vfb-stuttgart-ii/startseite/verein/102",
-      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/102.png",
-      "NeuerVereinId": "102",
+      "Link neuer Verein": null,
+      "Wappen neuer Verein": null,
+      "NeuerVereinId": null,
       "AlterVereinsId": null
     },
     {
@@ -22360,9 +22360,9 @@
       "Transferdatum": "01.07.2026",
       "Marktwert": "125 Tsd. €",
       "Ablöse": "ablösefrei",
-      "Link neuer Verein": "https://www.transfermarkt.de/wurzburger-kickers/startseite/verein/1557",
-      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/1557.png",
-      "NeuerVereinId": "1557",
+      "Link neuer Verein": null,
+      "Wappen neuer Verein": null,
+      "NeuerVereinId": null,
       "AlterVereinsId": null
     },
     {
@@ -22607,9 +22607,9 @@
       "Transferdatum": "01.07.2026",
       "Marktwert": "-",
       "Ablöse": "-",
-      "Link neuer Verein": "https://www.transfermarkt.de/vfb-stuttgart-ii/startseite/verein/102",
-      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/102.png",
-      "NeuerVereinId": "102",
+      "Link neuer Verein": null,
+      "Wappen neuer Verein": null,
+      "NeuerVereinId": null,
       "AlterVereinsId": null
     },
     {
@@ -22626,9 +22626,9 @@
       "Transferdatum": "01.07.2026",
       "Marktwert": "-",
       "Ablöse": "-",
-      "Link neuer Verein": "https://www.transfermarkt.de/vfb-stuttgart-ii/startseite/verein/102",
-      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/102.png",
-      "NeuerVereinId": "102",
+      "Link neuer Verein": null,
+      "Wappen neuer Verein": null,
+      "NeuerVereinId": null,
       "AlterVereinsId": null
     },
     {
@@ -23006,9 +23006,9 @@
       "Transferdatum": "01.07.2026",
       "Marktwert": "75 Tsd. €",
       "Ablöse": "ablösefrei",
-      "Link neuer Verein": "https://www.transfermarkt.de/wurzburger-kickers/startseite/verein/1557",
-      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/1557.png",
-      "NeuerVereinId": "1557",
+      "Link neuer Verein": null,
+      "Wappen neuer Verein": null,
+      "NeuerVereinId": null,
       "AlterVereinsId": null
     },
     {
@@ -23025,9 +23025,9 @@
       "Transferdatum": "01.07.2026",
       "Marktwert": "-",
       "Ablöse": "ablösefrei",
-      "Link neuer Verein": "https://www.transfermarkt.de/wurzburger-kickers/startseite/verein/1557",
-      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/1557.png",
-      "NeuerVereinId": "1557",
+      "Link neuer Verein": null,
+      "Wappen neuer Verein": null,
+      "NeuerVereinId": null,
       "AlterVereinsId": null
     },
     {
@@ -23044,9 +23044,9 @@
       "Transferdatum": "01.07.2026",
       "Marktwert": "150 Tsd. €",
       "Ablöse": "ablösefrei",
-      "Link neuer Verein": "https://www.transfermarkt.de/wurzburger-kickers/startseite/verein/1557",
-      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/1557.png",
-      "NeuerVereinId": "1557",
+      "Link neuer Verein": null,
+      "Wappen neuer Verein": null,
+      "NeuerVereinId": null,
       "AlterVereinsId": null
     },
     {
@@ -23253,9 +23253,9 @@
       "Transferdatum": "01.07.2026",
       "Marktwert": "250 Tsd. €",
       "Ablöse": "ablösefrei",
-      "Link neuer Verein": "https://www.transfermarkt.de/wurzburger-kickers/startseite/verein/1557",
-      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/1557.png",
-      "NeuerVereinId": "1557",
+      "Link neuer Verein": null,
+      "Wappen neuer Verein": null,
+      "NeuerVereinId": null,
       "AlterVereinsId": null
     },
     {
