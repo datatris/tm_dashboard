@@ -1,5 +1,5 @@
 {
-  "letzte_aktualisierung": "2026-08-31T22:32:09.867474+00:00",
+  "letzte_aktualisierung": "2026-08-31T23:38:38.317747+00:00",
   "anzahl": 1500,
   "transfers": [
     {
@@ -16,9 +16,9 @@
       "Transferdatum": "31.08.2026",
       "Marktwert": "12,00 Mio. €",
       "Ablöse": "9,20 Mio. €",
-      "Link neuer Verein": null,
-      "Wappen neuer Verein": null,
-      "NeuerVereinId": null,
+      "Link neuer Verein": "https://www.transfermarkt.de/eintracht-frankfurt/startseite/verein/24",
+      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/24.png",
+      "NeuerVereinId": "24",
       "AlterVereinsId": null
     },
     {
@@ -244,9 +244,9 @@
       "Transferdatum": "28.08.2026",
       "Marktwert": "25,00 Mio. €",
       "Ablöse": "Leihgebühr:1,00 Mio. €",
-      "Link neuer Verein": null,
-      "Wappen neuer Verein": null,
-      "NeuerVereinId": null,
+      "Link neuer Verein": "https://www.transfermarkt.de/eintracht-frankfurt/startseite/verein/24",
+      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/24.png",
+      "NeuerVereinId": "24",
       "AlterVereinsId": null
     },
     {
@@ -263,9 +263,9 @@
       "Transferdatum": "27.08.2026",
       "Marktwert": "25,00 Mio. €",
       "Ablöse": "22,50 Mio. €",
-      "Link neuer Verein": null,
-      "Wappen neuer Verein": null,
-      "NeuerVereinId": null,
+      "Link neuer Verein": "https://www.transfermarkt.de/ipswich-town/startseite/verein/677",
+      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/677.png",
+      "NeuerVereinId": "677",
       "AlterVereinsId": null
     },
     {
@@ -586,9 +586,9 @@
       "Transferdatum": "24.08.2026",
       "Marktwert": "8,00 Mio. €",
       "Ablöse": "2,00 Mio. €",
-      "Link neuer Verein": null,
-      "Wappen neuer Verein": null,
-      "NeuerVereinId": null,
+      "Link neuer Verein": "https://www.transfermarkt.de/hamburger-sv/startseite/verein/41",
+      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/41.png",
+      "NeuerVereinId": "41",
       "AlterVereinsId": null
     },
     {
@@ -681,9 +681,9 @@
       "Transferdatum": "20.08.2026",
       "Marktwert": "700 Tsd. €",
       "Ablöse": "?",
-      "Link neuer Verein": null,
-      "Wappen neuer Verein": null,
-      "NeuerVereinId": null,
+      "Link neuer Verein": "https://www.transfermarkt.de/fk-haugesund/startseite/verein/2761",
+      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/2761.png",
+      "NeuerVereinId": "2761",
       "AlterVereinsId": null
     },
     {
@@ -795,9 +795,9 @@
       "Transferdatum": "19.08.2026",
       "Marktwert": "8,00 Mio. €",
       "Ablöse": "Leihgebühr:1,00 Mio. €",
-      "Link neuer Verein": null,
-      "Wappen neuer Verein": null,
-      "NeuerVereinId": null,
+      "Link neuer Verein": "https://www.transfermarkt.de/hamburger-sv/startseite/verein/41",
+      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/41.png",
+      "NeuerVereinId": "41",
       "AlterVereinsId": null
     },
     {
@@ -1745,9 +1745,9 @@
       "Transferdatum": "02.08.2026",
       "Marktwert": "23,00 Mio. €",
       "Ablöse": "9,00 Mio. €",
-      "Link neuer Verein": null,
-      "Wappen neuer Verein": null,
-      "NeuerVereinId": null,
+      "Link neuer Verein": "https://www.transfermarkt.de/eintracht-frankfurt/startseite/verein/24",
+      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/24.png",
+      "NeuerVereinId": "24",
       "AlterVereinsId": null
     },
     {
@@ -1878,9 +1878,9 @@
       "Transferdatum": "28.07.2026",
       "Marktwert": "1,50 Mio. €",
       "Ablöse": "4,50 Mio. €",
-      "Link neuer Verein": null,
-      "Wappen neuer Verein": null,
-      "NeuerVereinId": null,
+      "Link neuer Verein": "https://www.transfermarkt.de/eintracht-frankfurt/startseite/verein/24",
+      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/24.png",
+      "NeuerVereinId": "24",
       "AlterVereinsId": null
     },
     {
@@ -2030,9 +2030,9 @@
       "Transferdatum": "24.07.2026",
       "Marktwert": "8,00 Mio. €",
       "Ablöse": "ablösefrei",
-      "Link neuer Verein": null,
-      "Wappen neuer Verein": null,
-      "NeuerVereinId": null,
+      "Link neuer Verein": "https://www.transfermarkt.de/hamburger-sv/startseite/verein/41",
+      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/41.png",
+      "NeuerVereinId": "41",
       "AlterVereinsId": null
     },
     {
@@ -2163,9 +2163,9 @@
       "Transferdatum": "22.07.2026",
       "Marktwert": "3,00 Mio. €",
       "Ablöse": "ablösefrei",
-      "Link neuer Verein": null,
-      "Wappen neuer Verein": null,
-      "NeuerVereinId": null,
+      "Link neuer Verein": "https://www.transfermarkt.de/hamburger-sv/startseite/verein/41",
+      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/41.png",
+      "NeuerVereinId": "41",
       "AlterVereinsId": null
     },
     {
@@ -2277,9 +2277,9 @@
       "Transferdatum": "18.07.2026",
       "Marktwert": "12,00 Mio. €",
       "Ablöse": "12,00 Mio. €",
-      "Link neuer Verein": null,
-      "Wappen neuer Verein": null,
-      "NeuerVereinId": null,
+      "Link neuer Verein": "https://www.transfermarkt.de/eintracht-frankfurt/startseite/verein/24",
+      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/24.png",
+      "NeuerVereinId": "24",
       "AlterVereinsId": null
     },
     {
@@ -2676,9 +2676,9 @@
       "Transferdatum": "13.07.2026",
       "Marktwert": "10,00 Mio. €",
       "Ablöse": "4,00 Mio. €",
-      "Link neuer Verein": null,
-      "Wappen neuer Verein": null,
-      "NeuerVereinId": null,
+      "Link neuer Verein": "https://www.transfermarkt.de/hamburger-sv/startseite/verein/41",
+      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/41.png",
+      "NeuerVereinId": "41",
       "AlterVereinsId": null
     },
     {
@@ -4063,9 +4063,9 @@
       "Transferdatum": "01.07.2026",
       "Marktwert": "4,00 Mio. €",
       "Ablöse": "3,50 Mio. €",
-      "Link neuer Verein": null,
-      "Wappen neuer Verein": null,
-      "NeuerVereinId": null,
+      "Link neuer Verein": "https://www.transfermarkt.de/eintracht-frankfurt/startseite/verein/24",
+      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/24.png",
+      "NeuerVereinId": "24",
       "AlterVereinsId": null
     },
     {
@@ -19852,9 +19852,9 @@
       "Transferdatum": "06.08.2026",
       "Marktwert": "225 Tsd. €",
       "Ablöse": "ablösefrei",
-      "Link neuer Verein": null,
-      "Wappen neuer Verein": null,
-      "NeuerVereinId": null,
+      "Link neuer Verein": "https://www.transfermarkt.de/sgv-freiberg/startseite/verein/435",
+      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/435.png",
+      "NeuerVereinId": "435",
       "AlterVereinsId": null
     },
     {
@@ -20935,9 +20935,9 @@
       "Transferdatum": "15.07.2026",
       "Marktwert": "225 Tsd. €",
       "Ablöse": "ablösefrei",
-      "Link neuer Verein": null,
-      "Wappen neuer Verein": null,
-      "NeuerVereinId": null,
+      "Link neuer Verein": "https://www.transfermarkt.de/fc-vaduz/startseite/verein/163",
+      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/163.png",
+      "NeuerVereinId": "163",
       "AlterVereinsId": null
     },
     {
@@ -21600,9 +21600,9 @@
       "Transferdatum": "04.07.2026",
       "Marktwert": "-",
       "Ablöse": "ablösefrei",
-      "Link neuer Verein": null,
-      "Wappen neuer Verein": null,
-      "NeuerVereinId": null,
+      "Link neuer Verein": "https://www.transfermarkt.de/fv-lochgau/startseite/verein/7329",
+      "Wappen neuer Verein": "https://tmssl.akamaized.net//images/wappen/medium/7329.png",
+      "NeuerVereinId": "7329",
       "AlterVereinsId": null
     },
     {
