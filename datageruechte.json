@@ -1,7 +1,21 @@
 {
-  "letzte_aktualisierung": "2026-08-31T23:39:24.009493+00:00",
+  "letzte_aktualisierung": "2026-09-01T00:52:28.689705+00:00",
   "anzahl": 212,
   "geruechte": [
+    {
+      "Spieler": "Hiroki Ito",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/353892-1778846469.jpg?lm=4711",
+      "Link Spieler": "/hiroki-ito/profil/spieler/353892",
+      "Marktwert": "18,00 Mio.",
+      "Aktueller Verein": "FC Bayern München",
+      "Link aktueller Verein": "/fc-bayern-munchen/startseite/verein/27",
+      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/27.png?lm=4711",
+      "Potenzieller Verein": "Ajax Amsterdam",
+      "Link potenzieller Verein": "/ajax-amsterdam/startseite/verein/610",
+      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/610.png?lm=4711",
+      "Wahrscheinlichkeit": "56",
+      "Letzter Stand": "01.09.2026 02:49"
+    },
     {
       "Spieler": "Jamie Leweling",
       "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/518505-1691999306.jpg?lm=4711",
@@ -14,7 +28,7 @@
       "Link potenzieller Verein": "/as-rom/startseite/verein/12",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/12.png?lm=4711",
       "Wahrscheinlichkeit": "39",
-      "Letzter Stand": "01.09.2026 01:37"
+      "Letzter Stand": "01.09.2026 02:43"
     },
     {
       "Spieler": "Marcel Regula",
@@ -727,7 +741,7 @@
       "Potenzieller Verein": "Racing Straßburg",
       "Link potenzieller Verein": "/racing-strassburg/startseite/verein/667",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/667.png?lm=4711",
-      "Wahrscheinlichkeit": "37",
+      "Wahrscheinlichkeit": "43",
       "Letzter Stand": "31.08.2026 19:01"
     },
     {
@@ -813,20 +827,6 @@
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/409.png?lm=4711",
       "Wahrscheinlichkeit": "45",
       "Letzter Stand": "31.08.2026 17:14"
-    },
-    {
-      "Spieler": "Hiroki Ito",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/353892-1778846469.jpg?lm=4711",
-      "Link Spieler": "/hiroki-ito/profil/spieler/353892",
-      "Marktwert": "18,00 Mio.",
-      "Aktueller Verein": "FC Bayern München",
-      "Link aktueller Verein": "/fc-bayern-munchen/startseite/verein/27",
-      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/27.png?lm=4711",
-      "Potenzieller Verein": "Ajax Amsterdam",
-      "Link potenzieller Verein": "/ajax-amsterdam/startseite/verein/610",
-      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/610.png?lm=4711",
-      "Wahrscheinlichkeit": "56",
-      "Letzter Stand": "31.08.2026 16:59"
     },
     {
       "Spieler": "Francisco Moura",
@@ -1749,7 +1749,7 @@
       "Potenzieller Verein": "Galatasaray",
       "Link potenzieller Verein": "/galatasaray/startseite/verein/141",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=4711",
-      "Wahrscheinlichkeit": "33",
+      "Wahrscheinlichkeit": "31",
       "Letzter Stand": "28.08.2026 17:18"
     },
     {
@@ -2589,7 +2589,7 @@
       "Potenzieller Verein": "Hamburger SV",
       "Link potenzieller Verein": "/hamburger-sv/startseite/verein/41",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/41.png?lm=4711",
-      "Wahrscheinlichkeit": "14",
+      "Wahrscheinlichkeit": "13",
       "Letzter Stand": "25.08.2026 18:29"
     },
     {
