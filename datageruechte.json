@@ -1,7 +1,35 @@
 {
-  "letzte_aktualisierung": "2026-09-01T22:25:09.107029+00:00",
-  "anzahl": 139,
+  "letzte_aktualisierung": "2026-09-01T23:35:52.396055+00:00",
+  "anzahl": 141,
   "geruechte": [
+    {
+      "Spieler": "Joselu",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/81999-1738110796.jpg?lm=4711",
+      "Link Spieler": "/joselu/profil/spieler/81999",
+      "Marktwert": "2,80 Mio.",
+      "Aktueller Verein": "Vereinslos",
+      "Link aktueller Verein": "/vereinslos/startseite/verein/515",
+      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/515.png?lm=4711",
+      "Potenzieller Verein": "Eintracht Frankfurt",
+      "Link potenzieller Verein": "/eintracht-frankfurt/startseite/verein/24",
+      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/24.png?lm=4711",
+      "Wahrscheinlichkeit": "20",
+      "Letzter Stand": "02.09.2026 01:29"
+    },
+    {
+      "Spieler": "Kaishu Sano",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/643574-1752587688.jpg?lm=4711",
+      "Link Spieler": "/kaishu-sano/profil/spieler/643574",
+      "Marktwert": "50,00 Mio.",
+      "Aktueller Verein": "1.FSV Mainz 05",
+      "Link aktueller Verein": "/1-fsv-mainz-05/startseite/verein/39",
+      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/39.png?lm=4711",
+      "Potenzieller Verein": "RB Leipzig",
+      "Link potenzieller Verein": "/rb-leipzig/startseite/verein/23826",
+      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/23826.png?lm=4711",
+      "Wahrscheinlichkeit": "36",
+      "Letzter Stand": "02.09.2026 01:05"
+    },
     {
       "Spieler": "Arnaud Kalimuendo",
       "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/585959-1666698479.jpg?lm=4711",
@@ -13,22 +41,22 @@
       "Potenzieller Verein": "Eintracht Frankfurt",
       "Link potenzieller Verein": "/eintracht-frankfurt/startseite/verein/24",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/24.png?lm=4711",
-      "Wahrscheinlichkeit": "45",
-      "Letzter Stand": "02.09.2026 00:16"
+      "Wahrscheinlichkeit": "44",
+      "Letzter Stand": "02.09.2026 00:41"
     },
     {
-      "Spieler": "Chema Andrés",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/948279-1787317526.jpg?lm=4711",
-      "Link Spieler": "/chema-andres/profil/spieler/948279",
-      "Marktwert": "20,00 Mio.",
-      "Aktueller Verein": "VfB Stuttgart",
-      "Link aktueller Verein": "/vfb-stuttgart/startseite/verein/79",
-      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/79.png?lm=4711",
-      "Potenzieller Verein": "Brighton & Hove Albion",
-      "Link potenzieller Verein": "/brighton-amp-hove-albion/startseite/verein/1237",
-      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/1237.png?lm=4711",
-      "Wahrscheinlichkeit": "62",
-      "Letzter Stand": "02.09.2026 00:00"
+      "Spieler": "E. Bitshiabu",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/787912-1672304780.jpg?lm=4711",
+      "Link Spieler": "/e-bitshiabu/profil/spieler/787912",
+      "Marktwert": "18,00 Mio.",
+      "Aktueller Verein": "RB Leipzig",
+      "Link aktueller Verein": "/rb-leipzig/startseite/verein/23826",
+      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/23826.png?lm=4711",
+      "Potenzieller Verein": "Galatasaray",
+      "Link potenzieller Verein": "/galatasaray/startseite/verein/141",
+      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=4711",
+      "Wahrscheinlichkeit": "90",
+      "Letzter Stand": "02.09.2026 00:25"
     },
     {
       "Spieler": "Jean-Mattéo Bahoya",
@@ -73,20 +101,6 @@
       "Letzter Stand": "01.09.2026 23:07"
     },
     {
-      "Spieler": "Joselu",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/81999-1738110796.jpg?lm=4711",
-      "Link Spieler": "/joselu/profil/spieler/81999",
-      "Marktwert": "2,80 Mio.",
-      "Aktueller Verein": "Vereinslos",
-      "Link aktueller Verein": "/vereinslos/startseite/verein/515",
-      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/515.png?lm=4711",
-      "Potenzieller Verein": "Eintracht Frankfurt",
-      "Link potenzieller Verein": "/eintracht-frankfurt/startseite/verein/24",
-      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/24.png?lm=4711",
-      "Wahrscheinlichkeit": "21",
-      "Letzter Stand": "01.09.2026 23:04"
-    },
-    {
       "Spieler": "Jadon Sancho",
       "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/401173-1688564217.jpg?lm=4711",
       "Link Spieler": "/jadon-sancho/profil/spieler/401173",
@@ -113,20 +127,6 @@
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/202.png?lm=4711",
       "Wahrscheinlichkeit": null,
       "Letzter Stand": "01.09.2026 21:11"
-    },
-    {
-      "Spieler": "E. Bitshiabu",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/787912-1672304780.jpg?lm=4711",
-      "Link Spieler": "/e-bitshiabu/profil/spieler/787912",
-      "Marktwert": "18,00 Mio.",
-      "Aktueller Verein": "RB Leipzig",
-      "Link aktueller Verein": "/rb-leipzig/startseite/verein/23826",
-      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/23826.png?lm=4711",
-      "Potenzieller Verein": "Galatasaray",
-      "Link potenzieller Verein": "/galatasaray/startseite/verein/141",
-      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=4711",
-      "Wahrscheinlichkeit": "89",
-      "Letzter Stand": "01.09.2026 20:37"
     },
     {
       "Spieler": "Hyun-seok Hong",
@@ -531,7 +531,7 @@
       "Potenzieller Verein": "FC Fulham",
       "Link potenzieller Verein": "/fc-fulham/startseite/verein/931",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/931.png?lm=4711",
-      "Wahrscheinlichkeit": null,
+      "Wahrscheinlichkeit": "37",
       "Letzter Stand": "01.09.2026 12:22"
     },
     {
@@ -703,20 +703,6 @@
       "Letzter Stand": "31.08.2026 21:50"
     },
     {
-      "Spieler": "Mirza Catovic",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/1131117-1727777657.jpg?lm=4711",
-      "Link Spieler": "/mirza-catovic/profil/spieler/1131117",
-      "Marktwert": "4,00 Mio.",
-      "Aktueller Verein": "VfB Stuttgart",
-      "Link aktueller Verein": "/vfb-stuttgart/startseite/verein/79",
-      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/79.png?lm=4711",
-      "Potenzieller Verein": "FC Barcelona Atlètic",
-      "Link potenzieller Verein": "/fc-barcelona-atletic/startseite/verein/2464",
-      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/2464.png?lm=4711",
-      "Wahrscheinlichkeit": "84",
-      "Letzter Stand": "31.08.2026 21:22"
-    },
-    {
       "Spieler": "Matías Soulé",
       "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/668951-1725529266.jpg?lm=4711",
       "Link Spieler": "/matias-soule/profil/spieler/668951",
@@ -827,20 +813,6 @@
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/46.png?lm=4711",
       "Wahrscheinlichkeit": "12",
       "Letzter Stand": "31.08.2026 16:35"
-    },
-    {
-      "Spieler": "Malick Fofana",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/743386-1761589148.jpg?lm=4711",
-      "Link Spieler": "/malick-fofana/profil/spieler/743386",
-      "Marktwert": "30,00 Mio.",
-      "Aktueller Verein": "Olympique Lyon",
-      "Link aktueller Verein": "/olympique-lyon/startseite/verein/1041",
-      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/1041.png?lm=4711",
-      "Potenzieller Verein": "RB Leipzig",
-      "Link potenzieller Verein": "/rb-leipzig/startseite/verein/23826",
-      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/23826.png?lm=4711",
-      "Wahrscheinlichkeit": "23",
-      "Letzter Stand": "31.08.2026 15:46"
     },
     {
       "Spieler": "Luca Reggiani",
@@ -1595,7 +1567,7 @@
       "Potenzieller Verein": "SpVgg Greuther Fürth",
       "Link potenzieller Verein": "/spvgg-greuther-furth/startseite/verein/65",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/65.png?lm=4711",
-      "Wahrscheinlichkeit": "50",
+      "Wahrscheinlichkeit": "49",
       "Letzter Stand": "27.08.2026 09:48"
     },
     {
@@ -1947,6 +1919,62 @@
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/3.png?lm=4711",
       "Wahrscheinlichkeit": "10",
       "Letzter Stand": "25.08.2026 15:09"
+    },
+    {
+      "Spieler": "Bradley Locko",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/805908-1639674661.png?lm=4711",
+      "Link Spieler": "/bradley-locko/profil/spieler/805908",
+      "Marktwert": "6,00 Mio.",
+      "Aktueller Verein": "Stade Brest 29",
+      "Link aktueller Verein": "/stade-brest-29/startseite/verein/3911",
+      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/3911.png?lm=4711",
+      "Potenzieller Verein": "FC Augsburg",
+      "Link potenzieller Verein": "/fc-augsburg/startseite/verein/167",
+      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/167.png?lm=4711",
+      "Wahrscheinlichkeit": null,
+      "Letzter Stand": "25.08.2026 14:12"
+    },
+    {
+      "Spieler": "Youri Baas",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/559327-1689414712.jpg?lm=4711",
+      "Link Spieler": "/youri-baas/profil/spieler/559327",
+      "Marktwert": "20,00 Mio.",
+      "Aktueller Verein": "Ajax Amsterdam",
+      "Link aktueller Verein": "/ajax-amsterdam/startseite/verein/610",
+      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/610.png?lm=4711",
+      "Potenzieller Verein": "Eintracht Frankfurt",
+      "Link potenzieller Verein": "/eintracht-frankfurt/startseite/verein/24",
+      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/24.png?lm=4711",
+      "Wahrscheinlichkeit": "32",
+      "Letzter Stand": "25.08.2026 08:57"
+    },
+    {
+      "Spieler": "Eric-Junior Bocat",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/740529-1713346266.png?lm=4711",
+      "Link Spieler": "/eric-junior-bocat/profil/spieler/740529",
+      "Marktwert": "2,20 Mio.",
+      "Aktueller Verein": "Stoke City",
+      "Link aktueller Verein": "/stoke-city/startseite/verein/512",
+      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/512.png?lm=4711",
+      "Potenzieller Verein": "1.FC Köln",
+      "Link potenzieller Verein": "/1-fc-koln/startseite/verein/3",
+      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/3.png?lm=4711",
+      "Wahrscheinlichkeit": "34",
+      "Letzter Stand": "25.08.2026 01:35"
+    },
+    {
+      "Spieler": "Monju Momuluh",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/605242-1786994162.jpg?lm=4711",
+      "Link Spieler": "/monju-momuluh/profil/spieler/605242",
+      "Marktwert": "1,80 Mio.",
+      "Aktueller Verein": "Arminia Bielefeld",
+      "Link aktueller Verein": "/arminia-bielefeld/startseite/verein/10",
+      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/10.png?lm=4711",
+      "Potenzieller Verein": "FC Augsburg",
+      "Link potenzieller Verein": "/fc-augsburg/startseite/verein/167",
+      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/167.png?lm=4711",
+      "Wahrscheinlichkeit": "32",
+      "Letzter Stand": "24.08.2026 19:44"
     }
   ]
 }
