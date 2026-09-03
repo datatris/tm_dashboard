@@ -1,7 +1,77 @@
 {
-  "letzte_aktualisierung": "2026-09-02T23:37:19.176203+00:00",
+  "letzte_aktualisierung": "2026-09-03T08:42:19.682535+00:00",
   "anzahl": 88,
   "geruechte": [
+    {
+      "Spieler": "Can Uzun",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/816585-1787909899.jpg?lm=4711",
+      "Link Spieler": "/can-uzun/profil/spieler/816585",
+      "Marktwert": "45,00 Mio.",
+      "Aktueller Verein": "Eintracht Frankfurt",
+      "Link aktueller Verein": "/eintracht-frankfurt/startseite/verein/24",
+      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/24.png?lm=4711",
+      "Potenzieller Verein": "Fenerbahce",
+      "Link potenzieller Verein": "/fenerbahce/startseite/verein/36",
+      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/36.png?lm=4711",
+      "Wahrscheinlichkeit": "18",
+      "Letzter Stand": "03.09.2026 10:34"
+    },
+    {
+      "Spieler": "Dejan Ljubicic",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/287188-1786968260.jpg?lm=4711",
+      "Link Spieler": "/dejan-ljubicic/profil/spieler/287188",
+      "Marktwert": "3,00 Mio.",
+      "Aktueller Verein": "FC Schalke 04",
+      "Link aktueller Verein": "/fc-schalke-04/startseite/verein/33",
+      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/33.png?lm=4711",
+      "Potenzieller Verein": "LASK",
+      "Link potenzieller Verein": "/lask/startseite/verein/413",
+      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/413.png?lm=4711",
+      "Wahrscheinlichkeit": "22",
+      "Letzter Stand": "03.09.2026 09:59"
+    },
+    {
+      "Spieler": "Philipp Maier",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/258108-1753730544.jpg?lm=4711",
+      "Link Spieler": "/philipp-maier/profil/spieler/258108",
+      "Marktwert": "250 Tsd.",
+      "Aktueller Verein": "Vereinslos",
+      "Link aktueller Verein": "/vereinslos/startseite/verein/515",
+      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/515.png?lm=4711",
+      "Potenzieller Verein": "Preußen Münster",
+      "Link potenzieller Verein": "/preussen-munster/startseite/verein/91",
+      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/91.png?lm=4711",
+      "Wahrscheinlichkeit": null,
+      "Letzter Stand": "03.09.2026 09:58"
+    },
+    {
+      "Spieler": "Jadon Sancho",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/401173-1688564217.jpg?lm=4711",
+      "Link Spieler": "/jadon-sancho/profil/spieler/401173",
+      "Marktwert": "18,00 Mio.",
+      "Aktueller Verein": "Vereinslos",
+      "Link aktueller Verein": "/vereinslos/startseite/verein/515",
+      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/515.png?lm=4711",
+      "Potenzieller Verein": "Borussia Dortmund",
+      "Link potenzieller Verein": "/borussia-dortmund/startseite/verein/16",
+      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/16.png?lm=4711",
+      "Wahrscheinlichkeit": "34",
+      "Letzter Stand": "03.09.2026 08:49"
+    },
+    {
+      "Spieler": "Arthur Vermeeren",
+      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/926694-1729520583.jpg?lm=4711",
+      "Link Spieler": "/arthur-vermeeren/profil/spieler/926694",
+      "Marktwert": "20,00 Mio.",
+      "Aktueller Verein": "RB Leipzig",
+      "Link aktueller Verein": "/rb-leipzig/startseite/verein/23826",
+      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/23826.png?lm=4711",
+      "Potenzieller Verein": "FC Red Bull Salzburg",
+      "Link potenzieller Verein": "/fc-red-bull-salzburg/startseite/verein/409",
+      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/409.png?lm=4711",
+      "Wahrscheinlichkeit": null,
+      "Letzter Stand": "03.09.2026 04:59"
+    },
     {
       "Spieler": "Dawid Kownacki",
       "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/208167-1691613843.jpg?lm=4711",
@@ -15,34 +85,6 @@
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/324.png?lm=4711",
       "Wahrscheinlichkeit": null,
       "Letzter Stand": "03.09.2026 01:29"
-    },
-    {
-      "Spieler": "Can Uzun",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/816585-1787909899.jpg?lm=4711",
-      "Link Spieler": "/can-uzun/profil/spieler/816585",
-      "Marktwert": "45,00 Mio.",
-      "Aktueller Verein": "Eintracht Frankfurt",
-      "Link aktueller Verein": "/eintracht-frankfurt/startseite/verein/24",
-      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/24.png?lm=4711",
-      "Potenzieller Verein": "Fenerbahce",
-      "Link potenzieller Verein": "/fenerbahce/startseite/verein/36",
-      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/36.png?lm=4711",
-      "Wahrscheinlichkeit": "18",
-      "Letzter Stand": "03.09.2026 00:24"
-    },
-    {
-      "Spieler": "Jadon Sancho",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/401173-1688564217.jpg?lm=4711",
-      "Link Spieler": "/jadon-sancho/profil/spieler/401173",
-      "Marktwert": "18,00 Mio.",
-      "Aktueller Verein": "Vereinslos",
-      "Link aktueller Verein": "/vereinslos/startseite/verein/515",
-      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/515.png?lm=4711",
-      "Potenzieller Verein": "Borussia Dortmund",
-      "Link potenzieller Verein": "/borussia-dortmund/startseite/verein/16",
-      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/16.png?lm=4711",
-      "Wahrscheinlichkeit": "35",
-      "Letzter Stand": "03.09.2026 00:10"
     },
     {
       "Spieler": "Joselu",
@@ -69,7 +111,7 @@
       "Potenzieller Verein": "FC Hradec Kralove",
       "Link potenzieller Verein": "/fc-hradec-kralove/startseite/verein/1897",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/1897.png?lm=4711",
-      "Wahrscheinlichkeit": "90",
+      "Wahrscheinlichkeit": "92",
       "Letzter Stand": "02.09.2026 20:01"
     },
     {
@@ -113,20 +155,6 @@
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/42.png?lm=4711",
       "Wahrscheinlichkeit": "63",
       "Letzter Stand": "02.09.2026 18:10"
-    },
-    {
-      "Spieler": "Arthur Vermeeren",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/926694-1729520583.jpg?lm=4711",
-      "Link Spieler": "/arthur-vermeeren/profil/spieler/926694",
-      "Marktwert": "20,00 Mio.",
-      "Aktueller Verein": "RB Leipzig",
-      "Link aktueller Verein": "/rb-leipzig/startseite/verein/23826",
-      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/23826.png?lm=4711",
-      "Potenzieller Verein": "FC Red Bull Salzburg",
-      "Link potenzieller Verein": "/fc-red-bull-salzburg/startseite/verein/409",
-      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/409.png?lm=4711",
-      "Wahrscheinlichkeit": null,
-      "Letzter Stand": "02.09.2026 17:48"
     },
     {
       "Spieler": "Arthur Vermeeren",
@@ -267,20 +295,6 @@
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/25.png?lm=4711",
       "Wahrscheinlichkeit": "42",
       "Letzter Stand": "01.09.2026 18:15"
-    },
-    {
-      "Spieler": "Nathanaël Mbuku",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/557614-1787056822.jpg?lm=4711",
-      "Link Spieler": "/nathanael-mbuku/profil/spieler/557614",
-      "Marktwert": "2,00 Mio.",
-      "Aktueller Verein": "FC Augsburg",
-      "Link aktueller Verein": "/fc-augsburg/startseite/verein/167",
-      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/167.png?lm=4711",
-      "Potenzieller Verein": "VV St. Truiden",
-      "Link potenzieller Verein": "/vv-st-truiden/startseite/verein/475",
-      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/475.png?lm=4711",
-      "Wahrscheinlichkeit": null,
-      "Letzter Stand": "01.09.2026 17:47"
     },
     {
       "Spieler": "Suleman Sani",
@@ -671,7 +685,7 @@
       "Potenzieller Verein": "Eintracht Frankfurt",
       "Link potenzieller Verein": "/eintracht-frankfurt/startseite/verein/24",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/24.png?lm=4711",
-      "Wahrscheinlichkeit": "22",
+      "Wahrscheinlichkeit": "23",
       "Letzter Stand": "29.08.2026 23:28"
     },
     {
@@ -785,20 +799,6 @@
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/81.png?lm=4711",
       "Wahrscheinlichkeit": "24",
       "Letzter Stand": "28.08.2026 13:26"
-    },
-    {
-      "Spieler": "Dejan Ljubicic",
-      "Profilbild": "https://img.a.transfermarkt.technology/portrait/medium/287188-1786968260.jpg?lm=4711",
-      "Link Spieler": "/dejan-ljubicic/profil/spieler/287188",
-      "Marktwert": "3,00 Mio.",
-      "Aktueller Verein": "FC Schalke 04",
-      "Link aktueller Verein": "/fc-schalke-04/startseite/verein/33",
-      "Wappen aktueller Verein": "https://img.a.transfermarkt.technology/wappen/medium/33.png?lm=4711",
-      "Potenzieller Verein": "LASK",
-      "Link potenzieller Verein": "/lask/startseite/verein/413",
-      "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/413.png?lm=4711",
-      "Wahrscheinlichkeit": "22",
-      "Letzter Stand": "28.08.2026 11:20"
     },
     {
       "Spieler": "Virgil Ghiță",
@@ -1049,7 +1049,7 @@
       "Potenzieller Verein": "Eintracht Frankfurt",
       "Link potenzieller Verein": "/eintracht-frankfurt/startseite/verein/24",
       "Wappen potenzieller Verein": "https://img.a.transfermarkt.technology/wappen/medium/24.png?lm=4711",
-      "Wahrscheinlichkeit": "37",
+      "Wahrscheinlichkeit": "36",
       "Letzter Stand": "26.08.2026 12:25"
     },
     {
